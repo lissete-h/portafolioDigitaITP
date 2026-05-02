@@ -1,1 +1,1 @@
-<img src="f57a3dc6a0a7c7f381868fa172aaaf2a6b2ed127" width="100%">
+<img src="https://github.com/lissete-h/portafolioDigitaITP/blob/9969528eb5b50f2580478ef4d9751907ab1b4b1f/prtafolio.jpg" width="100%">
