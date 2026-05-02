@@ -1,1 +1,1 @@
-<img scr="prtafolio.jpg" width="100%">
+![prtada] (prtada.jpg)
