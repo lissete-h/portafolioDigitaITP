@@ -189,28 +189,32 @@ Identificamos los siguientes datos:
 ### **4. Codificación**
 
 <p align="center">  
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/62facff4b4e05a4fa69313e87fe8a2d0552a6086/Captura%20de%20pantalla%202026-05-03%20000128.png" width="500">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/738d0a9de20a957f91123305059cc6bf38c6e6c6/codigo%20fuente.png" width="550">
 </p>
 
 ### **5. Validación**
-Se ejecuta el programa para verificar que los resultados sean correctos. Si hay errores, se corrigen en esta etapa.
-
-
-
-[Image of the software development life cycle stages]
-
 
 <div align="center">
 
-| Fase del Ejercicio | Objetivo Principal |
-| :--- | :--- |
-| **Planteamiento** | Definir el problema. |
-| **Análisis** | Identificar datos y procesos. |
-| **Diseño** | Crear la lógica visual o escrita. |
-| **Codificación** | Escribir el código fuente. |
-| **Pruebas** | Verificar el funcionamiento final. |
-| **Final** | |
+| Cantidad de Litros | Precio por Galón | Proceso (Cálculo) | Salida (Pago Total) |
+| :--- | :--- | :--- | :--- |
+| 5 litros | $1.50 | (5 / 3.785) * 1.50 | $1.98 |
+| 10 litros | $1.50 | (10 / 3.785) * 1.50 | $3.96 |
 
 </div>
+
+---
+
+### **Principales Dificultades en el Aprendizaje**
+
+Durante la revisión de los temas las principales dificultades que se presentaron fueron:
+
+* Realizar las pruebas de escritorio de manera correcta porque al mezclar las variables o no respetar el orden del algoritmo los resultados de la prueba de escritorio son diferentes a los obtenidos en el pseudocódigo, por lo tanto al obtener esto daba por hecho que su ejecución era incorrecta.
+* Identificar de manera correcta cuales son los datos de entrada, proceso y salida de mi codigo fuente. 
+* Aprenderme la sintaxis del codigo fuente (signos, palabras claves y la estructura) y entender el por qué muchas veces mi código no copilaba.
+
+### **Reflexión Crítica en la Aplicación de Contenidos**
+
+El aprendizaje del estudio de algoritmos, pseudocódigos, diagramas de flujo y la prueba de escritorio, son una parte fundamental para lograr desarrollar una solución antes de implementar cualquier lenguaje de programación, ya que la aplicación de estos contenidos nos permite estructurar ideas de manera clara, reducir errores y mejorar la comprensión del funcionamiento de un programa. Por ejemplo, una prueba de escritorio nos ayuda a verificar paso a paso los resultados que obtenemos durante la ejecución. Asimismo, al trabajar con el lenguaje de programación C, logramos evidenciar cómo la lógica previamente desarrollada se traduce en instrucciones precisas. Además, logramos comprender que el estudio de estos temas no solo se basa en memorizar conceptos o pasos ya que para lograr comprender de mejor manera estos contenidos nuestro trabajo es practicar de manera constante para desarrollar o mejorar nuestras habilidades.
 
 ---
