@@ -70,5 +70,5 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
   
 
 <p align="center">  
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/815a0df985d91f8b67f5fe72edcd0b131dcc6db8/dia.png" width="500">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/864ccc9c2aaa6f078a8a5c29340ad2dc8dd996b6/partes%20de%20un%20diagrama.png" width="500">
 </p>
