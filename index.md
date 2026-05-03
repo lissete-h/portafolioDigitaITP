@@ -176,20 +176,20 @@ Identificamos los siguientes datos:
 * **Diagrama de Flujo**
   
 <p align="center">
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/a69d095e7bb4f5a5d214067d3b0475fdf71dbdc5/litro%20diagrama.png" width="120">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/a69d095e7bb4f5a5d214067d3b0475fdf71dbdc5/litro%20diagrama.png" width="550">
 </p>
   
 * **Pseudocódigo**
 
 <p align="center">
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/17ee2db67f2534a34165bafbda652b63bd0f6a8f/unl.png" width="120">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/7b2f3f9ea02c9434ba5f784c7a01c9650b82b778/litro%20pseudoc%C3%B3digo.png" width="550">
 </p>
   
 
 ### **4. Codificación**
 Consiste en traducir el diseño del algoritmo a un lenguaje de programación real (como Python o C) para que la computadora lo entienda.
 
-### **5. Pruebas y Depuración**
+### **5. Validación**
 Se ejecuta el programa para verificar que los resultados sean correctos. Si hay errores, se corrigen en esta etapa.
 
 
