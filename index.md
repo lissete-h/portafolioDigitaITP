@@ -115,5 +115,8 @@ El funcionamiento de este sistema se basa en un entorno gráfica que traduce las
 * **Categorización por Colores:** Para facilitar la identificación, los bloques se dividen por funciones (por ejemplo: azul para movimiento, amarillo para eventos, naranja para variables).
 * **Traducción en Tiempo Real:** Mientras el usuario une los bloques, el entorno de programación interpreta esas uniones y las convierte en instrucciones que la computadora puede ejecutar inmediatamente.
 
+<p align="center">  
+  <img src="" width="500">
+</p>
 
 ---
