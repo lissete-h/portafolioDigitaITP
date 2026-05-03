@@ -61,7 +61,7 @@ Los algoritmos presentan una serie de características comunes:
 
 Existen diferentes herramientas para representar un algoritmo y entre ellas estan:
 
-* **Pseudocódigo:** Es una forma de representar algoritmos utilizando una mezcla de lenguaje natural (español/ingles) y estructuras de programación.
+* **Pseudocódigo:** Es una forma de representar algoritmos utilizando un lenguaje natural (español) y estructuras de programación.
   <p align="center">
   <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/9a2ba1c8d49fdd5837addd768fb1687ff3ff3fe3/pintura.png" width="500">
 </p>
@@ -70,5 +70,5 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
   
 
 <p align="center">  
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/115570b7d77b07eb431bbe4abc1ac7a4ebb21e17/pintura.png" width="500">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/815a0df985d91f8b67f5fe72edcd0b131dcc6db8/dia.png" width="500">
 </p>
