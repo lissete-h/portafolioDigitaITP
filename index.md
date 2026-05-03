@@ -1,18 +1,24 @@
-<img src="https://github.com/lissete-h/portafolioDigitaITP/blob/9969528eb5b50f2580478ef4d9751907ab1b4b1f/prtafolio.jpg" width="100%">
-<h1 align="center"> UNIVERSIDAD NACIONAL DE LOJA</b></h1>
 <p align="center">
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/f063540f9958d6747838e654aef430b375ba2e51/unl.png" width="120">
+  <img src="https://github.com/lissete-h/portafolioDigitalTP/blob/main/portafolio.jpg?raw=true" width="100%">
 </p>
-<h2 align="center">FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NO RENOVABLES</h2>
-<h2 align="center">INGENIERÍA EN COMPUTACIÓN</h2>
-<h2 align="center">TEORÍA DE LA PROGRAMACIÓN</h2>
-<h2 align="center">UNIDAD 1</h2>
-<br><br>
 
-**Nombre:** Evelyn Lissette Aguinsaca Iñeguez  
-**Docente:** Ing. Lissette Geoconda López Faicán  
+# <p align="center">**UNIVERSIDAD NACIONAL DE LOJA**</p>
+
+<p align="center">
+  <img src="https://github.com/lissete-h/portafolioDigitalTP/blob/main/unl.png?raw=true" width="120">
+</p>
+
+## <p align="center">**FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NO RENOVABLES**</p>
+## <p align="center">**INGENIERÍA EN COMPUTACIÓN**</p>
+## <p align="center">**TEORÍA DE LA PROGRAMACIÓN**</p>
+## <p align="center">**UNIDAD 1**</p>
+
+<br>
+
+**Nombre:** Evelyn Lissette Aguinsaca Iñiguez  
+**Docente:** Ing. Lissette Geoconda López Falcán  
 **Ciclo:** 1  
 
-**2025 - 2026**
-
+<p align="center">
+2025 - 2026
 </p>
