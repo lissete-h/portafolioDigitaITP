@@ -48,6 +48,11 @@ Los algoritmos presentan una serie de características comunes las cuales son:
 | :--- | :--- | :--- |
 | **Cualitativos** | Es aquel que utiliza palabras o instrucciones lógicas. | Preparar una taza de té: <br> 1. Hervir agua <br> 2. Añadir 5 hojas de té <br>  3. Reposar 3-5 minutos <br>  4. Colar y servir |
 | **Cuantitativos** | Solo utiliza cálculos o fórmulas matemáticass. | ¿Cómo restar dos números: <br> 1. **Inicio** <br> 2. Número uno 5 <br>  3. Número dos 3 <br>  4. Restar 5 y 3 <br> 5. El resultado es 2 <br> 6. **Final** |
+### ***4. Partes de un Algoritmo**
+<p align="center">
+  <img src="" width="100%">
+</p>
+
 
 ### **4. Partes de un Algoritmo**
 
