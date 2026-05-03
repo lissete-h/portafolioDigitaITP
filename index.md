@@ -173,9 +173,17 @@ Identificamos los siguientes datos:
 
 ### **3. Diseño del Algoritmo**
 
-* **Pseudocódigo**
-  
 * **Diagrama de Flujo**
+  
+<p align="center">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/17ee2db67f2534a34165bafbda652b63bd0f6a8f/unl.png" width="120">
+</p>
+  
+* **Pseudocódigo**
+
+<p align="center">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/17ee2db67f2534a34165bafbda652b63bd0f6a8f/unl.png" width="120">
+</p>
   
 
 ### **4. Codificación**
