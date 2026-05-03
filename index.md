@@ -62,13 +62,13 @@ Los algoritmos presentan una serie de características comunes:
 Existen diferentes herramientas para representar un algoritmo y entre ellas estan:
 
 * **Pseudocódigo:** Es una forma de representar algoritmos utilizando una mezcla de lenguaje natural (español/ingles) y estructuras de programación.
-* **Diagrama de Flujo:** Es la representación gráfica y secuencial de un proceso, sistema o algoritmo, utilizando símbolos geométricos estandarizados conectados por flechas para mostrar la secuencia de pasos, decisiones y acciones necesarias para comppletar la tarea de principio a fin.
-* **Pseudocódigo**
-* 
-<p align="center">
-  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/9a2ba1c8d49fdd5837addd768fb1687ff3ff3fe3/pintura.png" width="350">
+  <p align="center">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/9a2ba1c8d49fdd5837addd768fb1687ff3ff3fe3/pintura.png" width="500">
 </p>
 
-* **Diagrama de Flujo**
+* **Diagrama de Flujo:** Es la representación gráfica y secuencial de un proceso, sistema o algoritmo, utilizando símbolos geométricos estandarizados conectados por flechas para mostrar la secuencia de pasos, decisiones y acciones necesarias para comppletar la tarea de principio a fin.
+  
+
 <p align="center">  
-  <img src="
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/115570b7d77b07eb431bbe4abc1ac7a4ebb21e17/pintura.png" width="500">
+</p>
