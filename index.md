@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lissete-h/portafolioDigitalTP/blob/main/portafolio.jpg?raw=true" width="100%">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/3f3110ff62fd0bef406a20bd62e3230cac1a4339/AS.png" width="100%">
 </p>
 
 # <p align="center">**UNIVERSIDAD NACIONAL DE LOJA**</p>
