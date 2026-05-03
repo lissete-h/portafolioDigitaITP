@@ -3,10 +3,14 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="" width="100%">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/143045457dd73863c9893f3b62f2837017c09198/UNIVERSIDAD%20NACIONAL%20DE%20LOJA.png" width="100%">
 </p>
+
 ---
+<div align="center">
+  
 # **UNIDAD 1**
 
 </div>
@@ -53,11 +57,11 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
 </p>
 
 ### **6. Prueba de Escritorio**
-**¿En qué consiste una Prueba de Escritorio?**
+* **¿En qué consiste una Prueba de Escritorio?**
 
 Una prueba de escritorio consiste en seguir paso a paso las instrucciones de un algoritmo, anotando los valores que toman las variables y los resultados de las operaciones, ya sea en papel, en una tabla o en un documento digital. Con el objetivo principal de detectar errores lógicos, comprender el flujo del programa y validar que los resultados sean correctos antes de ejecutar el código en un compilador.
 
-**¿Por qué es importante realizar una Prueba de Escritorio?**
+* **¿Por qué es importante realizar una Prueba de Escritorio?**
 
 Porque permite:
 
@@ -66,7 +70,7 @@ Porque permite:
 * Analizar bucles y condicionales, observando cómo cambian las variables dentro de estas estructuras.
 * Validar resultados, asegurando que las salidas del programa coincidan con lo esperado.
 
-**Procedimiento**
+* **Procedimiento**
 
 Para realizar una prueba de escritorio, se siguen los siguientes pasos:
 
@@ -98,11 +102,14 @@ Un lenguaje de programación es un sistema estructurado de símbolos y reglas si
 * **Interpretados:** Es aquel que lee y ejecuta el código línea por línea en tiempo real (No genera un archivo ejecutable previo).
 * **Híbridos:** Es aquel en el cual el código fuente se compila primero a un lenguaje intermedio (Como el Bytecode en Java) y luego una máquina virtual lo interpreta o lo compila "al vuelo" (JIT - JUST-IN-TIME) en el dispositivo del usuario.
 ---
-### **1. Programación por Bloques**
+<div align="center">
+  
+# **Programación por Bloques**
+</div>
 
 La programación por bloques es un método de programación visual que permite a los usuarios ensamblar bloques gráficos para crear algoritmos sin necesidad de escribir código.
 
-### **Ventajas de la Programación por Bloques**
+### **1. Ventajas de la Programación por Bloques**
 
 * **Fácil de usar:** No requiere memorizar comandos complicados ni reglas de sintaxis estrictas.
 * **Prevención de errores:** Los bloques están diseñados para encajar solo si la lógica es correcta, lo que evita errores de escritura.
@@ -195,5 +202,27 @@ Durante la revisión de los temas las principales dificultades que se presentaro
 ### **Reflexión Crítica en la Aplicación de Contenidos**
 
 El aprendizaje del estudio de algoritmos, pseudocódigos, diagramas de flujo y la prueba de escritorio, son una parte fundamental para lograr desarrollar una solución antes de implementar cualquier lenguaje de programación, ya que la aplicación de estos contenidos nos permite estructurar ideas de manera clara, reducir errores y mejorar la comprensión del funcionamiento de un programa. Por ejemplo, una prueba de escritorio nos ayuda a verificar paso a paso los resultados que obtenemos durante la ejecución. Asimismo, al trabajar con el lenguaje de programación C, logramos evidenciar cómo la lógica previamente desarrollada se traduce en instrucciones precisas. Además, logramos comprender que el estudio de estos temas no solo se basa en memorizar conceptos o pasos ya que para lograr comprender de mejor manera estos contenidos nuestro trabajo es practicar de manera constante para desarrollar o mejorar nuestras habilidades.
+
+---
+
+### **Bibliografías y Referencias**
+
+[1] A. J. Edwards-Crespo et al., "El pensamiento computacional: un reto para la educación de cara al siglo XXI," *Revista Universidad y Sociedad*, vol. 11, no. 1, 2019. [En línea]. Disponible: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2077-29552019000100147
+
+[2] F. Monroy Tenorio, "¿Qué es PSeInt?," *Fernando Monroy Tenorio - Blog de Tecnología*. [En línea]. Disponible: https://fernandomonroytenorio.com/tema/que-es-pseint/
+
+[3] Miro, "¿Qué es un diagrama de flujo y cómo se hace?," *Miro Software*. [En línea]. Disponible: https://miro.com/es/diagrama-de-flujo/que-es-diagrama-de-flujo/
+
+[4] Lucidchart, "Tutorial de diagrama de flujo: Qué es y cómo se hace," *Lucid Software Inc.* [En línea]. Disponible: https://www.lucidchart.com/pages/es/tutorial/diagrama-de-flujo
+
+[5] ID Tech, "What is block-based coding?," *ID Tech Blog*. [En línea]. Disponible: https://www.idtech.com/blog/what-is-block-based-coding
+
+[6] Educa JCyL, "Programación por bloques y pensamiento computacional," *Portal de Educación de la Junta de Castilla y León*. [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html
+
+[7] Millennials Consulting, "Programación en C: Todo lo que necesitas saber," *Millennials Consulting Blog*. [En línea]. Disponible: https://millennialsconsulting.es/programacion-c/
+
+### **Declaración de Uso de Inteligencia Artificial**
+
+Se utilizo la Inteligencia Artificial (Gemini) para estructurar de manera correcta y jerarquica los titulos y subtitulos, es decir cuales son los caracteres para que el titulo salga en negrita y centrado. Asimismo, como agregar las rutas de las imagenes que necesitaba colocar, como resaltar un texto y como agregar un tipo separador de hojas. Además, me ayudo a redactar algunas partes de mi portafolio.
 
 ---
