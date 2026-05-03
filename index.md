@@ -143,7 +143,7 @@ Un productor de leche lleva el registro de lo que produce en litros, pero cuando
 
 ### **2. Análisis del Problema**
 Identificamos los siguientes datos:
-* **Entradas:**
+* **Entrada:**
   * Cantidad de litros producidos en el día.
   * Precio por Galón
 * **Proceso:**
