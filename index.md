@@ -61,7 +61,7 @@ Los algoritmos presentan una serie de características comunes:
 
 Existen diferentes herramientas para representar un algoritmo y entre ellas estan:
 
-* **Pseudocódigo:** Es una forma de representar algoritmos utilizando un lenguaje natural (español) y estructuras de programación.
+* **Pseudocódigo:** Es una forma de representar algoritmos utilizando un lenguaje natural (Español) y estructuras de programación.
   <p align="center">
   <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/9a2ba1c8d49fdd5837addd768fb1687ff3ff3fe3/pintura.png" width="500">
 </p>
@@ -72,3 +72,48 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
 <p align="center">  
   <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/864ccc9c2aaa6f078a8a5c29340ad2dc8dd996b6/partes%20de%20un%20diagrama.png" width="500">
 </p>
+
+### **6. Lenguajes de Programación**
+
+Un lenguaje de programación es un sistema estructurado de símbolos y reglas sintácticas que permite a los desarrolladores escribir instrucciones (Código) para controlar el comportamiento físico y lógico de una computadora.
+
+<div align="center">
+
+| Lenguaje | Descripción |
+| :--- | :--- |
+| **Python** | Es una herramienta versátil, popular en la ciencia de datos, inteligencia artificial y automatización. | 
+| **JavaScript** | Es el lenguaje estándar para el desarrollo web interactivo. | 
+| **Java** | Es utilizado en aplicaciones empresariales a gran escala y desarrollo Android. | 
+| **C#** | Se utiliza en el desarrollo de videojuegos y aplicaciones Windows. | 
+| **C++** | Es utilizado para software de alto rendimiento, sistemas operativos y videojuegos. | 
+
+</div>
+
+### **Clasificación según su ejecución:**
+
+* **Compilados:** Es aquel que traduce todo el código fuente de una vez y genera un archivo ejecutable independiente (Como un .exe) antes de que el programa corra.
+* **Interpretados:** Es aquel que lee y ejecuta el código línea por línea en tiempo real (No genera un archivo ejecutable previo).
+* **Híbridos:** Es aquel en el cual el código fuente se compila primero a un lenguaje intermedio (Como el Bytecode en Java) y luego una máquina virtual lo interpreta o lo compila "al vuelo" (JIT - JUST-IN-TIME) en el dispositivo del usuario.
+---
+### **1. Programación por Bloques**
+
+La programación por bloques es un método de programación visual que permite a los usuarios ensamblar bloques gráficos para crear algoritmos sin necesidad de escribir código.
+
+### **Ventajas de la Programación por Bloques**
+
+* **Fácil de usar:** No requiere memorizar comandos complicados ni reglas de sintaxis estrictas.
+* **Prevención de errores:** Los bloques están diseñados para encajar solo si la lógica es correcta, lo que evita errores de escritura.
+* **Aprendizaje visual:** Permite ver la estructura del programa de forma clara y colorida.
+* **Fomenta la creatividad:** Al reducir la frustración técnica, el usuario puede enfocarse en resolver el problema.
+
+### **2. ¿Cómo funciona la programación por bloques?**
+
+El funcionamiento de este sistema se basa en un entorno gráfica que traduce las acciones del usuario en código real. Es decir, en lugar de escribir, el usuario "ensambla" la lógica del programa siguiendo estos principios:
+
+* **Interfaz de Arrastrar y Soltar (Drag and Drop):** Los usuarios seleccionan bloques desde una paleta categorizada y los arrastran al área de trabajo.
+* **Lógica de Rompecabezas:** Los bloques tienen muescas y salientes que indican visualmente qué piezas pueden conectarse. Si una conexión no es lógica, las piezas simplemente no encajan.
+* **Categorización por Colores:** Para facilitar la identificación, los bloques se dividen por funciones (por ejemplo: azul para movimiento, amarillo para eventos, naranja para variables).
+* **Traducción en Tiempo Real:** Mientras el usuario une los bloques, el entorno de programación interpreta esas uniones y las convierte en instrucciones que la computadora puede ejecutar inmediatamente.
+
+
+---
