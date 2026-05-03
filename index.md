@@ -5,7 +5,7 @@
 # <p align="center">**UNIVERSIDAD NACIONAL DE LOJA**</p>
 
 <p align="center">
-  <img src="https://github.com/lissete-h/portafolioDigitalTP/blob/main/unl.png?raw=true" width="120">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/17ee2db67f2534a34165bafbda652b63bd0f6a8f/unl.png" width="120">
 </p>
 
 ## <p align="center">**FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NO RENOVABLES**</p>
