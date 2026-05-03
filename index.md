@@ -63,14 +63,12 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
 
 * **Pseudocódigo:** Es una forma de representar algoritmos utilizando una mezcla de lenguaje natural (español/ingles) y estructuras de programación.
 * **Diagrama de Flujo:** Es la representación gráfica y secuencial de un proceso, sistema o algoritmo, utilizando símbolos geométricos estandarizados conectados por flechas para mostrar la secuencia de pasos, decisiones y acciones necesarias para comppletar la tarea de principio a fin.
-### **6. Ejemplos Visuales de Representación**
 
 <div align="center">
 
 | Pseudocódigo | Diagrama de Flujo |
 | :---: | :---: |
-| <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/fe8f16c8b9a2f572ac0abc76bb633afff6a6e5c8/dia.png="300"> | <img src="URL_DE_TU_IMAGEN_2" width="300"> |
-| **Representación en texto** | **Representación gráfica** |
+| <img src="URL_DE_TU_IMAGEN_PSEUDOCODIGO?raw=true" width="350"> | <img src="URL_DE_TU_IMAGEN_DIAGRAMA?raw=true" width="350"> |
 | **Final** | |
 
 </div>
