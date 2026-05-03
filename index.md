@@ -69,7 +69,7 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
 
 | Pseudocódigo | Diagrama de Flujo |
 | :---: | :---: |
-| <img src="URL_DE_TU_IMAGEN_1" width="300"> | <img src="URL_DE_TU_IMAGEN_2" width="300"> |
+| <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/fe8f16c8b9a2f572ac0abc76bb633afff6a6e5c8/dia.png="300"> | <img src="URL_DE_TU_IMAGEN_2" width="300"> |
 | **Representación en texto** | **Representación gráfica** |
 | **Final** | |
 
