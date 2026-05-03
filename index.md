@@ -73,7 +73,31 @@ Existen diferentes herramientas para representar un algoritmo y entre ellas esta
   <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/864ccc9c2aaa6f078a8a5c29340ad2dc8dd996b6/partes%20de%20un%20diagrama.png" width="500">
 </p>
 
-### **6. Lenguajes de Programación**
+### **6. Prueba de Escritorio**
+**¿En qué consiste una Prueba de Escritorio?**
+
+Una prueba de escritorio consiste en seguir paso a paso las instrucciones de un algoritmo, anotando los valores que toman las variables y los resultados de las operaciones, ya sea en papel, en una tabla o en un documento digital. Con el objetivo principal de detectar errores lógicos, comprender el flujo del programa y validar que los resultados sean correctos antes de ejecutar el código en un compilador.
+
+**¿Por qué es importante realizar una Prueba de Escritorio?**
+
+Porque permite:
+
+* Comprender el orden de ejecución de las instrucciones y cómo se repiten o se saltan según las condiciones.
+* Identificar errores lógicos y problemas en el código antes de la ejecución real, ahorrando tiempo y recursos.
+* Analizar bucles y condicionales, observando cómo cambian las variables dentro de estas estructuras.
+* Validar resultados, asegurando que las salidas del programa coincidan con lo esperado.
+
+**Procedimiento**
+
+Para realizar una prueba de escritorio, se siguen los siguientes pasos:
+
+* Definición del problema: comprender qué se desea lograr con el algoritmo.
+* Análisis del problema: identificar los datos de entrada, salida, fórmulas y ciclos necesarios.
+* Diseño del algoritmo: estructurar el pseudocódigo o diagrama de flujo.
+* Ejecución manual: con datos de prueba, recorrer cada paso del algoritmo, anotando los valores de las variables y los resultados intermedios.
+* Evaluación: si los resultados son correctos, el algoritmo es lógico; de lo contrario, se corrigen errores y se repite la prueba.
+
+### **7. Lenguajes de Programación**
 
 Un lenguaje de programación es un sistema estructurado de símbolos y reglas sintácticas que permite a los desarrolladores escribir instrucciones (Código) para controlar el comportamiento físico y lógico de una computadora.
 
@@ -116,7 +140,66 @@ El funcionamiento de este sistema se basa en un entorno gráfica que traduce las
 * **Traducción en Tiempo Real:** Mientras el usuario une los bloques, el entorno de programación interpreta esas uniones y las convierte en instrucciones que la computadora puede ejecutar inmediatamente.
 
 <p align="center">  
-  <img src="" width="500">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/62facff4b4e05a4fa69313e87fe8a2d0552a6086/Captura%20de%20pantalla%202026-05-03%20000128.png" width="500">
 </p>
+
+---
+
+<div align="center">
+
+## **EJERCICIO CON ESTRUCTURAS SECUENCIALES**
+
+</div>
+
+### **1. Planteamiento del Problema**
+
+Un productor de leche lleva el registro de lo que produce en litros, pero cuando entrega le pagan en galones. Realice un algoritmo que ayude al productor a saber cuánto recibirá por la entrega de su producción de un día ( 1 galón = 3.785 litros)
+
+### **2. Análisis del Problema**
+Identificamos los siguientes datos:
+* **Entradas:**
+  * Cantidad de litros producidos en el día.
+  * Precio por Galón
+* **Proceso:**
+  * Primero, convertimos los litros a galones:
+    
+    GA = L/3.785
+    
+  * Segundo, calculamos el pago total:
+    
+    PAGO = GA*PG
+    
+* **Salida:** El monto total de dinero que el productor recibirá por su entrega del día
+
+### **3. Diseño del Algoritmo**
+
+* **Pseudocódigo**
+  
+* **Diagrama de Flujo**
+  
+
+### **4. Codificación**
+Consiste en traducir el diseño del algoritmo a un lenguaje de programación real (como Python o C) para que la computadora lo entienda.
+
+### **5. Pruebas y Depuración**
+Se ejecuta el programa para verificar que los resultados sean correctos. Si hay errores, se corrigen en esta etapa.
+
+
+
+[Image of the software development life cycle stages]
+
+
+<div align="center">
+
+| Fase del Ejercicio | Objetivo Principal |
+| :--- | :--- |
+| **Planteamiento** | Definir el problema. |
+| **Análisis** | Identificar datos y procesos. |
+| **Diseño** | Crear la lógica visual o escrita. |
+| **Codificación** | Escribir el código fuente. |
+| **Pruebas** | Verificar el funcionamiento final. |
+| **Final** | |
+
+</div>
 
 ---
