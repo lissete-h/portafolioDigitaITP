@@ -187,7 +187,10 @@ Identificamos los siguientes datos:
   
 
 ### **4. Codificación**
-Consiste en traducir el diseño del algoritmo a un lenguaje de programación real (como Python o C) para que la computadora lo entienda.
+
+<p align="center">  
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/62facff4b4e05a4fa69313e87fe8a2d0552a6086/Captura%20de%20pantalla%202026-05-03%20000128.png" width="500">
+</p>
 
 ### **5. Validación**
 Se ejecuta el programa para verificar que los resultados sean correctos. Si hay errores, se corrigen en esta etapa.
