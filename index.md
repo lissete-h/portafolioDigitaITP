@@ -18,7 +18,7 @@
 <a name="10-dificultades-y-reflexion-critica"></a>
 <div align="center">
 
-## 🧩 **Principales Dificultades en el Aprendizaje**
+## [🧩 **Principales Dificultades en el Aprendizaje**](dificultades.md)
 
 </div>
 
