@@ -1,3 +1,4 @@
+# 🛠️PRINCIPALES DIFICULTADES🛠️ #
 </div>
 
 <p align="justify">
