@@ -15,38 +15,51 @@
 
 ---
 
-### **Principales Dificultades en el Aprendizaje**
+<a name="10-dificultades-y-reflexion-critica"></a>
+<div align="center">
 
+## 🧩 **Principales Dificultades en el Aprendizaje**
+
+</div>
+
+<p align="justify">
 Durante la revisión de los temas las principales dificultades que se presentaron fueron:
-
-* Realizar las pruebas de escritorio de manera correcta porque al mezclar las variables o no respetar el orden del algoritmo los resultados de la prueba de escritorio son diferentes a los obtenidos en el pseudocódigo, por lo tanto al obtener esto daba por hecho que su ejecución era incorrecta.
-* Identificar de manera correcta cuales son los datos de entrada, proceso y salida de mi codigo fuente. 
-* Aprenderme la sintaxis del codigo fuente (signos, palabras claves y la estructura) y entender el por qué muchas veces mi código no copilaba.
-
-### **Reflexión Crítica en la Aplicación de Contenidos**
-
-El aprendizaje del estudio de algoritmos, pseudocódigos, diagramas de flujo y la prueba de escritorio, son una parte fundamental para lograr desarrollar una solución antes de implementar cualquier lenguaje de programación, ya que la aplicación de estos contenidos nos permite estructurar ideas de manera clara, reducir errores y mejorar la comprensión del funcionamiento de un programa. Por ejemplo, una prueba de escritorio nos ayuda a verificar paso a paso los resultados que obtenemos durante la ejecución. Asimismo, al trabajar con el lenguaje de programación C, logramos evidenciar cómo la lógica previamente desarrollada se traduce en instrucciones precisas. Además, logramos comprender que el estudio de estos temas no solo se basa en memorizar conceptos o pasos ya que para lograr comprender de mejor manera estos contenidos nuestro trabajo es practicar de manera constante para desarrollar o mejorar nuestras habilidades.
+<br><br>
+• <b>Pruebas de Escritorio:</b> Realizarlas de manera correcta representó un reto, ya que al mezclar las variables o no respetar el orden del algoritmo los resultados de la prueba de escritorio son diferentes a los obtenidos en el pseudocódigo, por lo tanto al obtener esto daba por hecho que su ejecución era incorrecta.
+<br><br>
+• <b>Análisis de Requerimientos:</b> Identificar de manera correcta cuáles son los datos de entrada, proceso y salida de mi código fuente.
+<br><br>
+• <b>Sintaxis en C:</b> Aprenderme la sintaxis del código fuente (signos, palabras claves y la estructura) y entender el por qué muchas veces mi código no compilaba.
+</p>
 
 ---
+
+<div align="center">
+
+## 💡 **Reflexión Crítica en la Aplicación de Contenidos**
+
+</div>
+
+<p align="justify">
+El aprendizaje del estudio de algoritmos, pseudocódigos, diagramas de flujo y la prueba de escritorio, son una parte fundamental para lograr desarrollar una solución antes de implementar cualquier lenguaje de programación, ya que la aplicación de estos contenidos nos permite estructurar ideas de manera clara, reducir errores y mejorar la comprensión del funcionamiento de un programa. 
+</p>
+
+<p align="justify">
+Por ejemplo, una prueba de escritorio nos ayuda a verificar paso a paso los resultados que obtenemos durante la ejecución. Asimismo, al trabajar con el lenguaje de programación C, logramos evidenciar cómo la lógica previamente desarrollada se traduce en instrucciones precisas. Además, logramos comprender que el estudio de estos temas no solo se basa en memorizar conceptos o pasos ya que para lograr comprender de mejor manera estos contenidos nuestro trabajo es practicar de manera constante para desarrollar o mejorar nuestras habilidades.
+</p>
+
+---
+
+<div align="center">
 
 ### **Bibliografías y Referencias**
 
-[1] A. J. Edwards-Crespo et al., "El pensamiento computacional: un reto para la educación de cara al siglo XXI," *Revista Universidad y Sociedad*, vol. 11, no. 1, 2019. [En línea]. Disponible: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2077-29552019000100147
-
-[2] F. Monroy Tenorio, "¿Qué es PSeInt?," *Fernando Monroy Tenorio - Blog de Tecnología*. [En línea]. Disponible: https://fernandomonroytenorio.com/tema/que-es-pseint/
-
-[3] Miro, "¿Qué es un diagrama de flujo y cómo se hace?," *Miro Software*. [En línea]. Disponible: https://miro.com/es/diagrama-de-flujo/que-es-diagrama-de-flujo/
-
-[4] Lucidchart, "Tutorial de diagrama de flujo: Qué es y cómo se hace," *Lucid Software Inc.* [En línea]. Disponible: https://www.lucidchart.com/pages/es/tutorial/diagrama-de-flujo
-
-[5] ID Tech, "What is block-based coding?," *ID Tech Blog*. [En línea]. Disponible: https://www.idtech.com/blog/what-is-block-based-coding
-
-[6] Educa JCyL, "Programación por bloques y pensamiento computacional," *Portal de Educación de la Junta de Castilla y León*. [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html
-
-[7] Millennials Consulting, "Programación en C: Todo lo que necesitas saber," *Millennials Consulting Blog*. [En línea]. Disponible: https://millennialsconsulting.es/programacion-c/
-
-### **Declaración de Uso de Inteligencia Artificial**
-
-Se utilizo la Inteligencia Artificial (Gemini) para estructurar de manera correcta y jerarquica los titulos y subtitulos, es decir cuales son los caracteres para que el titulo salga en negrita y centrado. Asimismo, como agregar las rutas de las imagenes que necesitaba colocar, como resaltar un texto y como agregar un tipo separador de hojas. Además, me ayudo a redactar algunas partes de mi portafolio.
-
----
+| Índice | Referencia Bibliográfica |
+| :---: | :--- |
+| **[1]** | A. J. Edwards-Crespo *et al.*, "El pensamiento computacional: un reto para la educación de cara al siglo XXI," *Revista Universidad y Sociedad*, vol. 11, no. 1, 2019. [En línea]. Disponible: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2077-29552019000100147 |
+| **[2]** | F. Monroy Tenorio, "¿Qué es PSeInt?," *Fernando Monroy Tenorio - Blog de Tecnología*. [En línea]. Disponible: https://fernandomonroytenorio.com/tema/que-es-pseint/ |
+| **[3]** | Miro, "¿Qué es un diagrama de flujo y cómo se hace?," *Miro Software*. [En línea]. Disponible: https://miro.com/es/diagrama-de-flujo/que-es-diagrama-de-flujo/ |
+| **[4]** | Lucidchart, "Tutorial de diagrama de flujo: Qué es y cómo se hace," *Lucid Software Inc.* [En línea]. Disponible: https://www.lucidchart.com/pages/es/tutorial/diagrama-de-flujo |
+| **[5]** | ID Tech, "What is block-based coding?," *ID Tech Blog*. [En línea]. Disponible: https://www.idtech.com/blog/what-is-block-based-coding |
+| **[6]** | Educa JCyL, "Programación por bloques y pensamiento computacional," *Portal de Educación de la Junta de Castilla y León*. [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html |
+| **[7]** | Millennials Consulting, "Programación en C: Todo lo que necesitas saber," *Millennials Consulting Blog*. [En línea]. Disponible: https://
