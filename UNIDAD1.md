@@ -9,8 +9,6 @@
 Un algoritmo es una secuencia ordenada, finita y definida de pasos o instrucciones estructuradas que sirven para resolver problemas complejos, realizar cálculos matemáticos precisos o ejecutar tareas específicas dentro de un sistema.
 </p>
 
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
-
 ---
 
 <a name="2-caracteristicas-de-los-algoritmos"></a>
@@ -32,8 +30,6 @@ Para que un conjunto de instrucciones sea considerado un algoritmo válido, debe
 • <b>Definidos:</b> Rigurosidad ante todo; si se sigue el mismo algoritmo utilizando los mismos elementos de entrada (input), se debe obtener siempre el mismo resultado (output).
 </p>
 
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
-
 ---
 
 <a name="3-clasificacion-de-los-algoritmos"></a>
@@ -48,8 +44,6 @@ Para que un conjunto de instrucciones sea considerado un algoritmo válido, debe
 
 </div>
 
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
-
 ---
 
 <a name="4-partes-de-un-algoritmo"></a>
@@ -62,8 +56,6 @@ Para que un conjunto de instrucciones sea considerado un algoritmo válido, debe
 </p>
 
 </div>
-
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
 
 ---
 
@@ -91,8 +83,6 @@ Existen diferentes metodologías y herramientas estandarizadas para modelar y re
 <p align="center">  
   <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/864ccc9c2aaa6f078a8a5c29340ad2dc8dd996b6/partes%20de%20un%20diagrama.png" width="500">
 </p>
-
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
 
 ---
 
@@ -139,8 +129,6 @@ Para efectuar de forma correcta este control de calidad analítico, se ejecutan 
 5. <b>Evaluación:</b> Si los resultados corresponden a lo esperado, el algoritmo es validado como correcto; caso contrario, se reajusta el diseño y se itera la prueba.
 </p>
 
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
-
 ---
 
 <a name="7-lenguajes-de-programacion"></a>
@@ -175,8 +163,6 @@ Un lenguaje de programación representa un sistema formal estructurado de símbo
 <br><br>
 • <b>Híbridos:</b> Modelos donde el código fuente es inicialmente compilado hacia un lenguaje de nivel intermedio neutro (como el <i>Bytecode</i> en Java). Posteriormente, una Máquina Virtual dedicada (JVM o CLR) interpreta o compila ese archivo intermedio de forma dinámica justo a tiempo (JIT - Just-In-Time) en el procesador del usuario.
 </p>
-
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
 
 ---
 
@@ -220,8 +206,6 @@ El entorno de desarrollo traduce los eventos y uniones gráficas realizadas en e
 <p align="center">  
   <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/62facff4b4e05a4fa69313e87fe8a2d0552a6086/Captura%20de%20pantalla%202026-05-03%20000128.png" width="500">
 </p>
-
-<div align="right">[ 🔼 Volver al Índice ](index.md)</div>
 
 ---
 
