@@ -11,7 +11,7 @@
 ---
 <div align="center">
   
-# 🖥️📒✨TEMAS TRABAJADOS✨📒🖥️
+# ✨TEMAS TRABAJADOS✨
 
 <p align="justify">
 <a name="10-dificultades-y-reflexion-critica"></a>
@@ -20,13 +20,13 @@
   
 <div align="left">
   
-## [**💡📝 UNIDAD 1 📝💡**](UNIDAD1.md)
+## [**💡 UNIDAD 1 💡**](UNIDAD1.md)
 
 </p>
 
  <div align="left">
     
-## [**📖🖊️ UNIDAD 2 🖊️📖**](UNIDAD2.md)
+## [**🖊️ UNIDAD 2 🖊️**](UNIDAD2.md)
 
 </p>
 
