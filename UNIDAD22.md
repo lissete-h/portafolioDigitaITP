@@ -7,5 +7,13 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
      * **Condicional Múltiple**: Es aquel que permite evaluar una variable y elegir entre múltiples rutas posibles según el valor que esta contenga, este condicional es util cuando hay muchas opciones.
      * **Condicionales Anidados**: Un condicional Anidado es aquel que ocurre cuando dentro del bloque de código de un condicional se coloca otra estructura condicional completa. Permitiendo evaluar condiciones dependientes unas de otras.
    * ### Estructuras Condicionales en Diagrama de Flujo
-     * **Condicional Simple***
-       
+     * **Condicional Simple**
+         <p align="center">
+  <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/909c41858331855b1d6e82e5fe4065d72dfb7250/img/Captura%20de%20pantalla%202026-06-08%20090837.png" width="55%">
+</p>
+     * **Condicional Doble**
+     
+     * **Condicional Múltiple**
+     * **Condicional Anidado**
+    
+    
