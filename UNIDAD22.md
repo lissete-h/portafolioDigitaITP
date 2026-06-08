@@ -40,6 +40,3 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
         <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/357f20800bde4818f7d20f3a633afc6a3f2f6a48/img/Captura%20de%20pantalla%202026-06-08%200954340.png"55%">
           </p>
-### *🔁 2.Estructuras Repetitivas*
-  * ### Tipos de Bucles Repetitivos
-    * **For:** 
