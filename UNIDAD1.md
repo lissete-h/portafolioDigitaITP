@@ -1,3 +1,12 @@
+<div align="center">
+  
+# UNIDAD 2
+  
+<p align="justify">
+<a name="10-dificultades-y-reflexion-critica"></a>
+
+</div>
+
 ## 📌 INDICE DE LA UNIDAD 1
 * [1. ¿Qué es un Algoritmo?](UNIDAD11.md#que-es-algoritmo)
 * [2. Características de los Algoritmos](UNIDAD11.md#caracteristicas-algoritmos)
