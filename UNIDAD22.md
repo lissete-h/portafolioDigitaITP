@@ -1,6 +1,6 @@
- ## UNIDAD 2: *✍🏻Estructuras Condicionales y Repetitivas✍🏻*
+ ## UNIDAD 2: *Estructuras Condicionales y Repetitivas*
 En esta unidad se analizo el control de Algotitmos mediante la toma de decisiones y asimismo se estudio los bucles repetitivos para crear códigos más eficientes. 
-### *⚡ 1.Esctructuras Condicionales*
+### * 1.Esctructuras Condicionales*
    * ###  Tipos de Condicionales
      * **Condicional Simple**: Es aquel que evalua una condición, dependiendo si el resultado es verdadero (T) o si es falso (F), simplemente ignorando el bloque y continuando con el flujo del programa.
      * **Condicional Doble**: Es aquel que permite elegir entre dos caminos o alternativas posibles. Si la condición es verdadera, ejecuta un bloque de código; si es falsa, ejecuta un bloque de código diferente.
@@ -40,7 +40,7 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
         <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/357f20800bde4818f7d20f3a633afc6a3f2f6a48/img/Captura%20de%20pantalla%202026-06-08%200954340.png"55%">
           </p>
-### *⚡ 2.Esctructuras Repetitivas*
+### * 2.Esctructuras Repetitivas*
    * ###  Tipos de Bucles Repetitivos
      * **While**: Es aquel que evalua una condición, dependiendo si el resultado es verdadero (T) o si es falso (F), simplemente ignorando el bloque y continuando con el flujo del programa.
      * **Do-While**: Es aquel que permite elegir entre dos caminos o alternativas posibles. Si la condición es verdadera, ejecuta un bloque de código; si es falsa, ejecuta un bloque de código diferente.
