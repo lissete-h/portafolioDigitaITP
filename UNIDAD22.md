@@ -40,3 +40,34 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
         <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/357f20800bde4818f7d20f3a633afc6a3f2f6a48/img/Captura%20de%20pantalla%202026-06-08%200954340.png"55%">
           </p>
+### *⚡ 2.Esctructuras Repetitivas*
+   * ###  Tipos de Bucles Repetitivos
+     * **While**: Es aquel que evalua una condición, dependiendo si el resultado es verdadero (T) o si es falso (F), simplemente ignorando el bloque y continuando con el flujo del programa.
+     * **Do-While**: Es aquel que permite elegir entre dos caminos o alternativas posibles. Si la condición es verdadera, ejecuta un bloque de código; si es falsa, ejecuta un bloque de código diferente.
+     * **For**: Es aquel que permite evaluar una variable y elegir entre múltiples rutas posibles según el valor que esta contenga, este condicional es util cuando hay muchas opciones.
+   * ### Estructuras en Diagrama de Flujo
+     * **While**
+         <p align="center"> 
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/d92d2d5b4a29aebb789e164b632c5867b088ea19/img/Captura%20de%20pantalla%202026-06-08%20143414.png" width="55%">
+         </p>
+     * **Do-While**
+        <p align="center"> 
+         <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5ec14746f64ce2d642ae4aa67ffcd4d4fec444ec/img/Captura%20de%20pantalla%202026-06-08%20144633.png" width="55%">
+          </p>
+     * **For**
+        <p align="center"> 
+         <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/4e8bf6e11a7b1b9f95dc755b5281e1afc610814c/img/Captura%20de%20pantalla%202026-06-08%20144926.png" width="55%">
+          </p>
+   * ### Estructura en Pseudocódigo
+      * **While**
+        <p align="center"> 
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png"55%">
+          </p>
+      * **Do-While**
+        <p align="center"> 
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5ec14746f64ce2d642ae4aa67ffcd4d4fec444ec/img/Captura%20de%20pantalla%202026-06-08%20144646.png"55%">
+          </p>
+      * **For**
+        <p align="center"> 
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/4e8bf6e11a7b1b9f95dc755b5281e1afc610814c/img/Captura%20de%20pantalla%202026-06-08%20144937.png"55%">
+          </p>
