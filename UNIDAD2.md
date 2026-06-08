@@ -23,7 +23,3 @@
   * [Diseño del Algoritmo](UNIDAD2.md)
   * [Codificación (Código Fuente)](UNIDAD2.md)
   * [Validación (Prueba de Escritorio)](UNIDAD2.md)
- ## [UNIDAD 2: *✍🏻Estructuras Condicionales y Repetitivas✍🏻*](UNIDAD2.md)
-En esta unidad se analizo el control de Algotitmos mediante la toma de decisiones y asimismo se estudio los bucles repetitivos para crear códigos más eficientes. 
-### [*⚡ 1.Esctructuras Condicionales*]
-###
