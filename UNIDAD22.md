@@ -106,8 +106,10 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
 
 <a id="diseno-algoritmo"></a>
 * #### Diseño del Algoritmo
-*(Aquí va el contenido de tu diseño)*
-
+ <p align="center"> 
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5d931622aa16c2684205787e71954652f725fd51/img/Captura%20de%20pantalla%202026-06-09%20150813.png" width="55%">
+          </p>
+          
 <a id="codificacion-fuente"></a>
 * #### Codificación (Código Fuente)
  <p align="center"> 
