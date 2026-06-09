@@ -17,5 +17,5 @@ Durante la revisión de los temas las principales dificultades que se presentaro
 <p align="justify">
 Durante esta unidad el principal tema que se me dificulto fue:
 <br><br>
-• <b>Identificar caundo se usa cada tipo de bucle repetitivo, ya que dependiendo de ciertas caracteristicas se debe aplizar cada bucle repetitivo porque no es de colocarlos por colocar en cualquier bloque del código.
+• <b>Bucles Repetitivos:</b>Ya que se debe identificar cuando se usa cada tipo de bucle repetitivo, debido a que dependiendo de ciertas caracteristicas se debe aplicar cada uno porque no es de colocarlos por colocar en cualquier bloque del código.
 <br><br>
