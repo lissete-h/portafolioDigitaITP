@@ -33,7 +33,7 @@
 ---
 <div align="center">
   
-# 🤔🔏PRINCIPALES DIFICULTADES EN EL APRENDIZAJE🔏🤔
+# 🤔PRINCIPALES DIFICULTADES EN EL APRENDIZAJE🤔
 
 <p align="justify">
 <a name="10-dificultades-y-reflexion-critica"></a>
@@ -43,7 +43,7 @@
  <div align="left">
    
 ## [🧩 **Principales Dificultades en la Unidad 1** 🧩](dificultades.md)
-## [📉 **Principales Dificultades en la Unidad 2**](dificultades2.md)
+## [📉 **Principales Dificultades en la Unidad 2** 📉](dificultades.md)
 
 ---
 
