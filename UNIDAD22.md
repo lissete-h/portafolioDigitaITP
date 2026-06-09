@@ -90,24 +90,28 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
           </p>
 
 <a id="ejercicio-integrador"></a>
-### 3.EJERCICIO PRACTICO INTEGRADOR
+### ⚡3.EJERCICIO PRACTICO INTEGRADOR
 
 <a id="planteamiento-problema"></a>
-#### Planteamiento del problema
-*(Aquí va el contenido de tu planteamiento)*
-
+* #### Planteamiento del problema
+  * Una tienda de abarrotes vende cajas de aceite multiusos y tiene un inventario inicial de 20 cajas. El cajero debe registrar las ventas una por una intoduciendo la cantidad de cajas que compra cada cliente.
+    
+    REGLAS:
+     * El programa debe repetirse mientras queden cajas en el inventario.
+     * Si un cliente pide mas cajas de las que hay disponibles, el programa debe mostrar un mensaje de error y rechazar esa venta en especifico.
+     * El programa debe terminar automaticamente cuando el inventario llege exactamente a 0.
 <a id="analisis-problema"></a>
-#### Análisis del problema
+* #### Análisis del problema
 *(Aquí va el contenido de tu análisis)*
 
 <a id="diseno-algoritmo"></a>
-#### Diseño del Algoritmo
+* #### Diseño del Algoritmo
 *(Aquí va el contenido de tu diseño)*
 
 <a id="codificacion-fuente"></a>
-#### Codificación (Código Fuente)
+* #### Codificación (Código Fuente)
 *(Aquí va tu código fuente)*
 
 <a id="validacion-escritorio"></a>
-#### Validación (Prueba de Escritorio)
+* #### Validación (Prueba de Escritorio)
 *(Aquí van tus pruebas de escritorio)*
