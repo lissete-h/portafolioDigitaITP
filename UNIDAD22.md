@@ -110,7 +110,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
 
 <a id="codificacion-fuente"></a>
 * #### Codificación (Código Fuente)
-*(Aquí va tu código fuente)*
+ <p align="center"> 
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/02a6cb5ea45bbbe362b0ee910067938802d4b41b/img/Captura%20de%20pantalla%202026-06-08%20090837.png" width="55%">
+          </p>
 
 <a id="validacion-escritorio"></a>
 * #### Validación (Prueba de Escritorio)
