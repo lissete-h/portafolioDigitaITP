@@ -11,10 +11,7 @@
 ---
 <div align="center">
   
-# ✨TEMAS TRABAJADOS✨
-
-<p align="justify">
-<a name="10-dificultades-y-reflexion-critica"></a>
+# ✨ **TEMAS TRABAJADOS** ✨
 
 </div>
   
@@ -22,28 +19,24 @@
   
 ## [**💡 UNIDAD 1 💡**](UNIDAD1.md)
 
-</p>
-
- <div align="left">
-    
 ## [**🖊️ UNIDAD 2 🖊️**](UNIDAD2.md)
-
-</p>
-
----
-<div align="center">
-  
-# 🤔PRINCIPALES DIFICULTADES EN EL APRENDIZAJE🤔
-
-<p align="justify">
-<a name="10-dificultades-y-reflexion-critica"></a>
 
 </div>
 
- <div align="left">
+---
+
+<div align="center">
+  
+# 🤔 **PRINCIPALES DIFICULTADES EN EL APRENDIZAJE** 🤔
+
+</div>
+
+<div align="left">
    
-## [🧩 **Principales Dificultades en la Unidad 1** 🧩](dificultades.md)
-## [📉 **Principales Dificultades en la Unidad 2** 📉](dificultades.md)
+## [🧩 **Principales Dificultades en la Unidad 1** 🧩](dificultades.md#dificultades-u1)
+## [📉 **Principales Dificultades en la Unidad 2** 📉](dificultades.md#dificultades-u2)
+
+</div>
 
 ---
 
@@ -75,4 +68,6 @@ Por ejemplo, una prueba de escritorio nos ayuda a verificar paso a paso los resu
 | **[4]** | Lucidchart, "Tutorial de diagrama de flujo: Qué es y cómo se hace," *Lucid Software Inc.* [En línea]. Disponible: https://www.lucidchart.com/pages/es/tutorial/diagrama-de-flujo |
 | **[5]** | ID Tech, "What is block-based coding?," *ID Tech Blog*. [En línea]. Disponible: https://www.idtech.com/blog/what-is-block-based-coding |
 | **[6]** | Educa JCyL, "Programación por bloques y pensamiento computacional," *Portal de Educación de la Junta de Castilla y León*. [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html |
-| **[7]** | Millennials Consulting, "Programación en C: Todo lo que necesitas saber," *Millennials Consulting Blog*. [En línea]. Disponible: https://
+| **[7]** | Millennials Consulting, "Programación en C: Todo lo que necesitas saber," *Millennials Consulting Blog*. |
+
+</div>
