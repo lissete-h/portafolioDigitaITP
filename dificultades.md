@@ -1,4 +1,8 @@
-# 🛠️PRINCIPALES DIFICULTADES EN LA UNIDAD 1🛠️ #
+<a id="dificultades-u2"></a>
+<div align="center">
+  
+# 🛠️ **Principales Dificultades en la Unidad 1** 🛠️
+
 </div>
 
 <p align="justify">
@@ -11,11 +15,17 @@ Durante la revisión de los temas las principales dificultades que se presentaro
 • <b>Sintaxis en C:</b> Aprenderme la sintaxis del código fuente (signos, palabras claves y la estructura) y entender el por qué muchas veces mi código no compilaba.
 </p>
 
-# 🛠️PRINCIPALES DIFICULTADES EN LA UNIDAD 2🛠️ #
-</d>
+---
+
+<a id="dificultades-u2"></a>
+<div align="center">
+
+# 🛠️ **Principales Dificultades en la Unidad 2** 🛠️
+
+</div>
 
 <p align="justify">
-Durante esta unidad el principal tema que se me dificulto fue:
+Durante esta unidad el principal tema que se me dificultó fue:
 <br><br>
-• <b>Bucles Repetitivos:</b>Ya que se debe identificar cuando se usa cada tipo de bucle repetitivo, debido a que dependiendo de ciertas caracteristicas se debe aplicar cada uno porque no es de colocarlos por colocar en cualquier bloque del código.
-<br><br>
+• <b>Bucles Repetitivos:</b> Ya que se debe identificar cuándo se usa cada tipo de bucle repetitivo, debido a que dependiendo de ciertas características se debe aplicar cada uno porque no es de colocarlos por colocar en cualquier bloque del código.
+</p>
