@@ -1,4 +1,4 @@
-# 🛠️PRINCIPALES DIFICULTADES🛠️ #
+# 🛠️PRINCIPALES DIFICULTADES EN LA UNIDAD 1🛠️ #
 </div>
 
 <p align="justify">
@@ -10,3 +10,12 @@ Durante la revisión de los temas las principales dificultades que se presentaro
 <br><br>
 • <b>Sintaxis en C:</b> Aprenderme la sintaxis del código fuente (signos, palabras claves y la estructura) y entender el por qué muchas veces mi código no compilaba.
 </p>
+
+# 🛠️PRINCIPALES DIFICULTADES EN LA UNIDAD 2🛠️ #
+</d>
+
+<p align="justify">
+Durante esta unidad el principal tema que se me dificulto fue:
+<br><br>
+• <b>Identificar caundo se usa cada tipo de bucle repetitivo, ya que dependiendo de ciertas caracteristicas se debe aplizar cada bucle repetitivo porque no es de colocarlos por colocar en cualquier bloque del código.
+<br><br>
