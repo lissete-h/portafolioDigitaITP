@@ -1,5 +1,6 @@
 <a id="que-es-algoritmo"></a>
 <div align="center">
+ [REGRESAR](UNIDAD1.md)
 
 ## ⚙️ **1. ¿Qué es un Algoritmo?**
 
@@ -10,7 +11,8 @@ Un algoritmo es una secuencia ordenada, finita y definida de pasos o instruccion
 </p>
 
 ---
-
+ [REGRESAR](UNIDAD1.md)
+ 
 <a id="caracteristicas-algoritmos"></a>
 <div align="center">
 
@@ -31,7 +33,8 @@ Para que un conjunto de instrucciones sea considerado un algoritmo válido, debe
 </p>
 
 ---
-
+ [REGRESAR](UNIDAD1.md)
+ 
 <a id="clasificacion-algoritmos"></a>
 <div align="center">
 
@@ -46,6 +49,8 @@ Para que un conjunto de instrucciones sea considerado un algoritmo válido, debe
 
 ---
 
+ [REGRESAR](UNIDAD1.md)
+ 
 <a id="partes-algoritmo"></a>
 <div align="center">
 
@@ -58,6 +63,7 @@ Para que un conjunto de instrucciones sea considerado un algoritmo válido, debe
 </div>
 
 ---
+ [REGRESAR](UNIDAD1.md)
 
 <a id="representacion-algoritmo"></a>
 <div align="center">
@@ -85,6 +91,7 @@ Existen diferentes metodologías y herramientas estandarizadas para modelar y re
 </p>
 
 ---
+ [REGRESAR](UNIDAD1.md)
 
 <a id="prueba-escritorio"></a>
 <div align="center">
@@ -129,6 +136,7 @@ Para efectuar de forma correcta este control de calidad analítico, se ejecutan 
 </p>
 
 ---
+ [REGRESAR](UNIDAD1.md)
 
 <a id="lenguajes-programacion"></a>
 <div align="center">
@@ -164,6 +172,7 @@ Un lenguaje de programación representa un sistema formal estructurado de símbo
 </p>
 
 ---
+ [REGRESAR](UNIDAD1.md)
 
 <a id="programacion-bloques"></a>
 <div align="center">
@@ -207,6 +216,7 @@ El entorno de desarrollo traduce los eventos y uniones gráficas realizadas en e
 </p>
 
 ---
+ [REGRESAR](UNIDAD1.md)
 
 <a id="ejercicio-secuenciales"></a>
 <div align="center">
