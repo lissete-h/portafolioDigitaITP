@@ -42,7 +42,7 @@
 
 <div align="center">
 
-## 💡 **Reflexión Crítica en la Aplicación de Contenidos**
+# 💡 **Reflexión Crítica en la Aplicación de Contenidos**
 
 </div>
 
