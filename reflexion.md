@@ -1,3 +1,5 @@
+ [REGRESAR](index.md)
+
 <a id="reflexion-u2"></a>
 <div align="center">
   
@@ -14,6 +16,8 @@ Por ejemplo, una prueba de escritorio nos ayuda a verificar paso a paso los resu
 </p>
 
 ---
+
+[REGRESAR](index.md)
 
 <a id="reflexion-u2"></a>
 <div align="center">
