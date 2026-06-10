@@ -1,8 +1,13 @@
+ [REGRESAR](UNIDAD2.md)
+ 
  <a id="unidad2-inicio"></a>
 ## UNIDAD 2: *✍🏻Estructuras Condicionales y Repetitivas✍🏻*
 En esta unidad se analizo el control de Algotitmos mediante la toma de decisiones y asimismo se estudio los bucles repetitivos para crear códigos más eficientes. 
 
 <a id="condicionales"></a>
+
+ [REGRESAR](UNIDAD2.md)
+ 
 ### *⚡ 1.Esctructuras Condicionales*
 
 <a id="tipos-condicionales"></a>
@@ -13,6 +18,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
      * **Condicionales Anidados**: Un condicional Anidado es aquel que ocurre cuando dentro del bloque de código de un condicional se coloca otra estructura condicional completa. Permitiendo evaluar condiciones dependientes unas de otras.
 
 <a id="diagrama-condicionales"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
    * ### Estructuras Condicionales en Diagrama de Flujo
      * **Condicional Simple**
          <p align="center"> 
@@ -32,6 +40,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
           </p>
 
 <a id="pseudocodigo-condicionales"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
    * ### Estructura en Pseudocódigo
       * **Condicional Simple**
         <p align="center"> 
@@ -51,6 +62,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
           </p>
 
 <a id="repetitivas"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
 ### *⚡ 2.Esctructuras Repetitivas*
 
 <a id="tipos-repetitivas"></a>
@@ -60,6 +74,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
      * **For**: Es aquel que permite evaluar una variable y elegir entre múltiples rutas posibles según el valor que esta contenga, este condicional es util cuando hay muchas opciones.
 
 <a id="diagrama-repetitivas"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
    * ### Estructuras en Diagrama de Flujo
      * **While**
          <p align="center"> 
@@ -75,6 +92,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
           </p>
 
 <a id="pseudocodigo-repetitivas"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
    * ### Estructura en Pseudocódigo
       * **While**
         <p align="center"> 
@@ -90,6 +110,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
           </p>
 
 <a id="ejercicio-integrador"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
 ### ⚡3.EJERCICIO PRACTICO INTEGRADOR
 
 <a id="planteamiento-problema"></a>
@@ -101,6 +124,9 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
      * Si un cliente pide mas cajas de las que hay disponibles, el programa debe mostrar un mensaje de error y rechazar esa venta en especifico.
      * El programa debe terminar automaticamente cuando el inventario llege exactamente a 0.
 <a id="analisis-problema"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
 * #### Análisis del problema
 | Componente | Elementos / Descripción |
 | :--- | :--- |
@@ -108,17 +134,26 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
 | **⚙️ Proceso** | <ul><li>**Variables**: int inventario=20 / int clientes_atendidos=0 </li><li>**Estructuras Repetitivas**: while (inventario>0) </li><li>**Estructura condicional**: if(cantidad_venta<=inventario)</li><li>**Operaciones**: inventario-=cantidad_venta / clientes_atendidos++ </li></ul> |
 | **📤 Salida** | **Si se cumple todo (Caso Éxito):**<br>• Inventario disponible:  <br>•  Venta realizada con exito.<br>• Inventario Agotado *(Al llegar a 0)*<br>• El total de clientes atendidos fue de: <br><br>**Por lo contrario (Caso Error):**<br>• Error: Cantidad Insuficiente, Intente con una cantidad menor. |
 * #### Diseño del Algoritmo
+  
+   [REGRESAR](UNIDAD2.md)
+  
  <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5d931622aa16c2684205787e71954652f725fd51/img/Captura%20de%20pantalla%202026-06-09%20150813.png" width="55%">
           </p>
           
 <a id="codificacion-fuente"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
 * #### Codificación (Código Fuente)
  <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/527af58b93e3717831db0c943d89e9732b9f798c/img/Captura%20de%20pantalla%202026-06-09%20094744.png" width="55%">
           </p>
 
 <a id="validacion-escritorio"></a>
+
+ [REGRESAR](UNIDAD2.md)
+
 * #### Validación (Prueba de Escritorio)
 | Cajas (Inventario) | Proceso | Pantalla | Mensaje |
 | :---: | :--- | :--- | :--- |
