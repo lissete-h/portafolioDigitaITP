@@ -9,48 +9,17 @@
 </p>
 
 ---
-<div align="center">
+  <div align="center">
   
-# ✨ **TEMAS TRABAJADOS** ✨
+# 📂 **MATRIZ DE NAVEGACIÓN ACADÉMICA** 📂
+
+| Componente de Estudio | 💡 Unidad 1: Fundamentos de Algorítmica | 🖊️ Unidad 2: Estructuras de Control |
+| :--- | :---: | :---: |
+| ✨ **Temas Trabajados** | [Ver Contenidos](UNIDAD1.md) | [Ver Contenidos](UNIDAD2.md) |
+| 🤔 **Dificultades Presentadas** | [Ver Desafíos](dificultades.md#dificultades-u1) | [Ver Desafíos](dificultades.md#dificultades-u2) |
+| 📝 **Reflexiones Críticas** | [Ver Análisis](reflexion.md#reflexion-u1) | [Ver Análisis](reflexion.md#reflexion-u2) |
 
 </div>
-  
-<div align="left">
-  
-## [**💡 UNIDAD 1 💡**](UNIDAD1.md)
-
-## [**🖊️ UNIDAD 2 🖊️**](UNIDAD2.md)
-
-</div>
-
----
-
-<div align="center">
-  
-# 🤔 **PRINCIPALES DIFICULTADES EN EL APRENDIZAJE** 🤔
-
-</div>
-
-<div align="left">
-   
-## [🧩 **Principales Dificultades en la Unidad 1** 🧩](dificultades.md#dificultades-u1)
-## [📉 **Principales Dificultades en la Unidad 2** 📉](dificultades.md#dificultades-u2)
-
-</div>
-
----
-
-<div align="center">
-
-# 💡 **Reflexión Crítica en la Aplicación de Contenidos**
-
-</div>
-
-<div align="left">
-
-## [💡 **Reflexión Crítica - Unidad 1** 💡](reflexion.md#reflexion-u1)
-## [🧠 **Reflexión Crítica - Unidad 2** 🧠](reflexion.md#reflexion-u2)
-
 ---
 
 <div align="center">
