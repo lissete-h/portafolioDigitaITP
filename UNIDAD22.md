@@ -102,9 +102,11 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
      * El programa debe terminar automaticamente cuando el inventario llege exactamente a 0.
 <a id="analisis-problema"></a>
 * #### Análisis del problema
-*(Aquí va el contenido de tu análisis)*
-
-<a id="diseno-algoritmo"></a>
+| Componente | Elementos / Descripción |
+| :--- | :--- |
+| **📥 Entrada** | <ul><li>**cantidad_venta**: Variable que almacena el dato que se lee del usuario.</li></ul> |
+| **⚙️ Proceso** | <ul><li>**Variables**: int inventario=20 / int clientes_atendidos=0 </li><li>**Estructuras Repetitivas**: while (inventario>0) </li><li>**Estructura condicional**: if(cantidad_venta<=inventario)</li><li>**Operaciones**: inventario-=cantidad_venta / clientes_atendidos++ </li></ul> |
+| **📤 Salida** | **Si se cumple todo (Caso Éxito):**<br>• Inventario disponible:  <br>•  Venta realizada con exito.<br>• Inventario Agotado *(Al llegar a 0)*<br>• El total de clientes atendidos fue de: <br><br>**Por lo contrario (Caso Error):**<br>• Error: Cantidad Insuficiente, Intente con una cantidad menor. |
 * #### Diseño del Algoritmo
  <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5d931622aa16c2684205787e71954652f725fd51/img/Captura%20de%20pantalla%202026-06-09%20150813.png" width="55%">
@@ -118,4 +120,17 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
 
 <a id="validacion-escritorio"></a>
 * #### Validación (Prueba de Escritorio)
-*(Aquí van tus pruebas de escritorio)*
+| Cajas (Inventario) | Proceso | Pantalla | Mensaje |
+| :---: | :--- | :--- | :--- |
+| **20** | Inicialización de variables. | | |
+| **20** | Evalúa:<br>20 > 0 | "Inventario disponible"<br>20 cajas | |
+| | | "Ingrese la cantidad de cajas..." | |
+| **20** | Cliente pide 15.<br>15 <= 20 | 15 | |
+| **5** | 20 - 15 = 5 | | "Venta realizada con exito."<br>Clientes atendidos = 1 |
+| | | | |
+| **5** | Evalúa:<br>5 > 0 | "Inventario disponible"<br>5 cajas | |
+| | | "Ingrese la cantidad de cajas..." | |
+| **5** | Cliente pide 5.<br>5 <= 5 | 5 | |
+| **0** | 5 - 5 = 0 | | "Venta realizada con exito."<br>Clientes atendidos = 2 |
+| | | | |
+| **0** | Evalúa:<br>0 > 0 (No) -> Fin bucle | | "Inventario Agotado"<br><br>"El total de clientes atendidos fue de: 2" |
