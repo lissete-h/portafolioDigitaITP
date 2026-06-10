@@ -11,7 +11,7 @@
 ---
   <div align="center">
   
-# 📂 **MATRIZ DE NAVEGACIÓN ACADÉMICA** 📂
+# 📂 **NAVEGACIÓN ACADÉMICA** 📂
 
 | Componente de Estudio | 💡 Unidad 1: Fundamentos de Algorítmica | 🖊️ Unidad 2: Estructuras de Control |
 | :--- | :---: | :---: |
