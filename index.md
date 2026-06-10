@@ -23,13 +23,7 @@
 ---
 
 # 🤖 **Declaración de Uso de Inteligencia Artificial**
-
-En el desarrollo de los contenidos y ejercicios prácticos de este portafolio, se ha empleado la asistencia de herramientas de Inteligencia Artificial Generativa, bajo los siguientes lineamientos de integridad académica:
-
-* **Corrección de Sintaxis y Depuración:** La IA se utilizó como una herramienta de soporte técnico para identificar y corregir errores específicos de sintaxis en los lenguajes C y C++ (como el manejo de tipos de datos `float`, inicialización de variables y resolución de errores de compilación tipo `nan` e `inf`).
-* **Optimización de Lógica Algorítmica:** Se empleó la IA para validar la coherencia entre el pseudocódigo desarrollado en PSeInt y su traducción a código fuente, asegurando que las estructuras secuenciales cumplieran con la lógica matemática requerida.
-* **Estructuración del Portafolio:** Se utilizó asistencia para la organización del contenido en formato Markdown y la generación de referencias bibliográficas siguiendo el estándar técnico IEEE.
-* **Supervisión Humana:** Todo el código y texto sugerido por la IA fue revisado, probado y ejecutado manualmente en entornos de desarrollo locales. La autoría intelectual de la resolución de los problemas y las reflexiones críticas presentadas corresponden íntegramente al autor de este portafolio.
+Se utilizo la Inteligencia Artificial (Gemini) para estructurar de manera correcta y jerarquica los titulos y subtitulos, es decir cuales son los caracteres para que el titulo salga en negrita y centrado. Asimismo, como agregar las rutas de las imagenes que necesitaba colocar, como resaltar un texto y como agregar un tipo separador de hojas. Además, me ayudo a redactar algunas partes de mi portafolio.
 
 ---
 <div align="center">
