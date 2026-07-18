@@ -7,7 +7,7 @@
 </div>
 
 <p align="justify">
-En esta unidad se analizó la programación modular, desde los conceptos básicos hasta el uso de módulos y funciones en la resolución de problemas. Asimismo, se abordaron las estructuras de datos estáticas básicas, abarcando desde los arreglos hasta las cadenas.
+En esta unidad se analizó la programación modular, desde los conceptos básicos hasta el uso de módulos y funciones en la resolución de problemas. Asimismo, se abordaron las estructuras de datos estáticas básicas:
 </p>
 
 <a id="programacion-modular"></a>
