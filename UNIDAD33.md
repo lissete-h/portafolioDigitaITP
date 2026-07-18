@@ -117,7 +117,7 @@ Ejemplo: Desarrolle un programa en lenguaje C que inicialice un arreglo unidimen
   
 Ejemplo: Desarrolle un programa en lenguaje C que utilice una matriz de tipo float de 3 filas por 4 columnas. Cada fila representa un vendedor (3 vendedores en total) y cada columna representa las ventas realizadas durante los 4 días de la semana laboral. El programa debe permitir ingresar las ventas de cada vendedor y, posteriormente, mostrar la matriz completa en pantalla organizada como una tabla.
     <p align="center">
-    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png" width="55%">
+    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/98be8bf1da5ced7ac22fd331bd1166c6b74e4d2d/img/Captura%20de%20pantalla%202026-07-18%20130628.png" width="80%">
     </p>
 
 *   <b>Tridimensional:</b> Son arreglos de tres dimensiones, útiles para representar estructuras más complejas, y se declaran como `int cubo[profundidad][fila][columna]`.
