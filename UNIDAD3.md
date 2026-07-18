@@ -1,20 +1,22 @@
+
 [REGRESAR](index.md)
- 
+
+<a id="indice"></a>
+
 <div align="center">
-  
+
 # UNIDAD 3
-  
-<p align="justify">
-<a name="10-dificultades-y-reflexion-critica"></a>
 
 </div>
 
 ## 📌 ÍNDICE
-* [UNIDAD 3: PROGRAMACIÓN MODULAR Y ESTRUCTURAS DE DATOS ESTÁTICAS](UNIDAD3.md#unidad3-inicio)
-* [1. PROGRAMACIÓN MODULAR](UNIDAD33.md#condicionales)
-  * [Conceptos básicos de programación modular](UNIDAD33.md#tipos-condicionales)
-  * [Estructura y componentes de una función](UNIDAD33.md#estructura-y-componentes-de-una-funcion)
-  * [Diferencia entre Procedimiento y Función](UNIDAD33.md#diferencia-entre-procedimiento-y-funcion)
-  * [Funciones con envío de parámetros](UNIDAD33.md#funciones-con-envio-de-parametros)
-* [2. ESTRUCTURAS DE DATOS ESTÁTICAS BÁSICAS](UNIDAD33.md#📊-arreglos)
-  * [Arreglos: Unidimensionales, Bidimensionales y Tridimensionales](UNIDAD33.md#📊-arreglos)
+
+- [UNIDAD 3: Programación Modular y Estructuras de Datos Estáticas](UNIDAD3.md#unidad3-inicio)
+
+- [1. Programación Modular](UNIDAD3.md#programacion-modular)
+  - [Conceptos básicos de programación modular](UNIDAD3.md#conceptos-basicos-modular)
+  - [Uso de módulos y funciones en la resolución de problemas](UNIDAD3.md#uso-modulos-funciones)
+
+- [2. Estructuras de Datos Estáticas Básicas](UNIDAD3.md#estructuras-datos-estaticas)
+  - [Arreglos: Unidimensionales, Bidimensionales y Tridimensionales](UNIDAD3.md#arreglos)
+  - [Cadenas o Strings](UNIDAD3.md#cadenas-strings)
