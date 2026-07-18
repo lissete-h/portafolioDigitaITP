@@ -7,13 +7,11 @@
 
 # UNIDAD 3
 
-</div>
-
 ## 📌 ÍNDICE
-* [1. Programación Modular](#tipo-condicionales)
-    * [Conceptos básicos](#condicionales)
-    * [Funciones y procedimientos](#uso-modulos-funciones)
-    * [Funciones con envío de parámetros](#funciones-con-envio-de-parametros)
-* [2. Arreglos](#arreglos)
+* [1. Programación Modular](UNIDAD33.md#programacion-modular)
+    * [Conceptos básicos](UNIDAD33.md#conceptos-basicos-modular)
+    * [Funciones y procedimientos](UNIDAD33.md#uso-modulos-funciones)
+    * [Funciones con envío de parámetros](UNIDAD33.md#funciones-con-envio-de-parametros)
+* [2. Arreglos](UNIDAD33.md#arreglos)
 
 ---
