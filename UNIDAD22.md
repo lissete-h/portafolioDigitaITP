@@ -138,7 +138,7 @@ En esta unidad se analizo el control de Algotitmos mediante la toma de decisione
    [REGRESAR](UNIDAD2.md)
   
  <p align="center"> 
-          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5d931622aa16c2684205787e71954652f725fd51/img/Captura%20de%20pantalla%202026-06-09%20150813.png" width="55%">
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/c7627aa233cbbd4dc0a239eadb8f70d29742055b/img/Diagrama%20sin%20t%C3%ADtulo.drawio.png" width="55%">
           </p>
           
 <a id="codificacion-fuente"></a>
