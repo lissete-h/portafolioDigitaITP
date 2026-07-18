@@ -1,17 +1,23 @@
+[REGRESAR](index.md)
+ 
+<div align="center">
+  
+# UNIDAD 3
+  
+<p align="justify">
+<a name="10-dificultades-y-reflexion-critica"></a>
+
+</div>
+
 ## 📌 ÍNDICE: UNIDAD 3
 
-* [1. PROGRAMACIÓN MODULAR](#1-programacion-modular)
-    * [Conceptos básicos de programación modular](#conceptos-basicos-de-programacion-modular)
-    * [Estructura y componentes de una función](#estructura-y-componentes-de-una-funcion)
-    * [Diferencia entre Procedimiento y Función](#diferencia-entre-procedimiento-y-funcion)
-    * [Funciones con envío de parámetros](#funciones-con-envio-de-parametros)
-        * [Por valor](#por-valor)
-        * [Por referencia](#por-referencia)
-
-* [2. ESTRUCTURAS DE DATOS ESTÁTICAS](#2-estructuras-de-datos-estaticas)
-    * [¿Qué es un Arreglo?](#qué-es-un-arreglo)
-    * [Declaración y uso](#cómo-se-declara-y-se-usa)
-    * [Tipos de arreglos](#tipos-de-arreglos)
-        * [Arreglos Unidimensionales](#unidimensional)
-        * [Arreglos Bidimensionales](#bidimensionales)
-        * [Arreglos Tridimensionales](#tridimensional)
+* [UNIDAD 3: PROGRAMACIÓN MODULAR Y ESTRUCTURAS DE DATOS ESTÁTICAS](UNIDAD3.md#unidad3-inicio)
+* [1. PROGRAMACIÓN MODULAR](UNIDAD3.md#condicionales)
+  * [Conceptos básicos de programación modular](UNIDAD3.md#tipos-condicionales)
+  * [Estructura y componentes de una función](UNIDAD3.md#estructura-y-componentes-de-una-funcion)
+  * [Diferencia entre Procedimiento y Función](UNIDAD3.md#diferencia-entre-procedimiento-y-funcion)
+  * [Funciones con envío de parámetros](UNIDAD3.md#funciones-con-envio-de-parametros)
+    * [Por valor](#por-valor)
+    * [Por referencia](#por-referencia)
+* [2. ESTRUCTURAS DE DATOS ESTÁTICAS BÁSICAS](UNIDAD3.md#📊-arreglos)
+  * [Arreglos: Unidimensionales, Bidimensionales y Tridimensionales](UNIDAD3.md#📊-arreglos)
