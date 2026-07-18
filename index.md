@@ -20,12 +20,27 @@
 | 📝 **Reflexiones Críticas** | [Ver Análisis](reflexion.md#reflexion-u1) | [Ver Análisis](reflexion.md#reflexion-u2) | [Ver Análisis](reflexion.md#reflexion-u3) |
 
 </div>
----
 
-# 🤖 **Declaración de Uso de Inteligencia Artificial**
+# ✨ **Conclusiones Generales**
+
+<p align="justify">
+• Integrar desde los fundamentos algorítmicos más sencillos hasta la lógica de los datos ha sido fundamental para dejar de ver el código como simples instrucciones y comenzar a visualizarlo como una forma de estructurar soluciones reales, donde cada paso lógico que diseño es una pieza clave para resolver problemas complejos con claridad y propósito.
+</p>
+
+<p align="justify">
+• Al aprender a dividir los sistemas en módulos especializados y gestionar la información mediante estructuras estáticas, he comprendido que la verdadera calidad de un programa no reside solo en que funcione, sino en la elegancia y eficiencia con la que sus partes interactúan, lo cual me ha permitido desarrollar una mentalidad mucho más organizada y profesional ante cualquier reto técnico.
+</p>
+
+<p align="justify">
+• Este portafolio no representa solo la culminación de varias unidades de estudio, sino el testimonio de mi crecimiento, ya que me ha dado la seguridad de enfrentar desafíos tecnológicos con las herramientas necesarias para investigar, proponer y construir soluciones sólidas; en definitiva, este proceso ha cimentado la base de mi identidad como una futura profesional capaz de transformar la teoría abstracta en herramientas tecnológicas funcionales y escalables.
+</p>
+
+
+# 🤖 **Declaración de Uso de Inteligencia Artificia**
 Se utilizo la Inteligencia Artificial (Gemini) para estructurar de manera correcta y jerarquica los titulos y subtitulos, es decir cuales son los caracteres para que el titulo salga en negrita y centrado. Asimismo, como agregar las rutas de las imagenes que necesitaba colocar, como resaltar un texto y como agregar un tipo separador de hojas. Además, me ayudo a redactar algunas partes de mi portafolio.
 
 ---
+
 <div align="center">
 
 ### **Bibliografías y Referencias**
