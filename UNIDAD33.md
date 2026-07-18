@@ -62,7 +62,7 @@ En esta unidad se analizó la programación modular, desde los conceptos básico
 </p>
 • Función: Es un bloque que devuelve un valor (ej. una función que calcula un promedio y entrega el número resultante).
  <p align="center"> 
-          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/02a6cb5ea45bbbe362b0ee910067938802d4b41b/img/Captura%20de%20pantalla%202026-06-08%20090837.png" width="55%">
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/d8ccaebcfcbddc64824c6220bed44e09d4b9c370/img/Captura%20de%20pantalla%202026-07-18%20111636.png" width="55%">
           </p>
 • Procedimiento (o subrutina): Es un bloque que realiza una acción pero no devuelve un valor directamente (ej. una función que simplemente imprime un reporte en pantalla o limpia la consola). En C, estos se definen como void.  
  <p align="center"> 
