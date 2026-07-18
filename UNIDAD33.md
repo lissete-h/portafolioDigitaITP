@@ -110,10 +110,12 @@ Ejemplo: Desarrolle un programa en lenguaje C que inicialice un arreglo unidimen
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/27f6d2e97345e46a8d6120294947b931ece22d9e/img/Captura%20de%20pantalla%202026-07-18%20124548.png" width="80%">
     </p>
   <p align="center">
-    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/27f6d2e97345e46a8d6120294947b931ece22d9e/img/Captura%20de%20pantalla%202026-07-18%20124548.png" width="80%">
+    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/71a6992052719cd0b66108c8dde2a1c40edc5faf/img/Captura%20de%20pantalla%202026-07-18%20124557.png" width="80%">
     </p>
 
 *   <b>Bidimensionales:</b> Son aquellos que tienen filas y columnas; para acceder a un elemento se necesitan dos índices: uno para la fila y otro para la columna. Se declara como `int matriz[fila][columna]`.
+  
+Ejemplo: Desarrolle un programa en lenguaje C que utilice una matriz de tipo float de 3 filas por 4 columnas. Cada fila representa un vendedor (3 vendedores en total) y cada columna representa las ventas realizadas durante los 4 días de la semana laboral. El programa debe permitir ingresar las ventas de cada vendedor y, posteriormente, mostrar la matriz completa en pantalla organizada como una tabla.
     <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png" width="55%">
     </p>
