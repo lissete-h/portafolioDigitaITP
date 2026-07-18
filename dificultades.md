@@ -44,10 +44,6 @@ Durante esta unidad el principal tema que se me dificultó fue:
 
 </div>
 
-• <p align="justify">
-Durante esta unidad el principal tema que se me dificultó fue:
-<br><br>
-• Al empezar a trabajar con programación modular, lo que más me costó entender fue la diferencia real entre pasar parámetros por valor o por referencia. Al principio, la lógica de los datos me resultaba abstracta; no lograba visualizar del todo por qué, en algunos casos, mis cambios dentro de una función se perdían al volver al programa principal, mientras que en otros, terminaban alterando cosas que yo no quería que cambiaran.
-<br><br>
-Con el tiempo, comprendí que el problema no era solo de sintaxis, sino de entender cómo gestionar el acceso a la información. Aprendí que cuando paso por valor, estoy enviando una copia lo cual es seguro pero limitado, y cuando paso por referencia, estoy entregando el acceso directo a la memoria original. Fue todo un reto de madurez como programadora: pasar de escribir código que simplemente funcionara a diseñar módulos que fueran realmente seguros y eficientes. Superar esta barrera cambió por completo mi forma de depurar, porque ahora entiendo mucho mejor dónde y por qué se producen esos errores de lógica que antes me frustraban tanto.
-</p>
+<p align="justify">
+
+Lo que más me costó entender fue la diferencia real entre pasar parámetros por valor o por referencia. Al principio, la lógica de los datos me resultaba abstracta; por lo que no entendia cuando debo usar un pase de parametros por referencia y cuando uno por valor, ya que al principio ambos me parecian iguales pero despues logre enteder para que sirve cada uno de ellos y cuando los debo usar
