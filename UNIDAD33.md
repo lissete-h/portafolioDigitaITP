@@ -1,5 +1,3 @@
-[REGRESAR](UNIDAD3.md)
- 
 <a id="unidad3-inicio"></a>
 
 <div align="center">
@@ -71,31 +69,33 @@ En esta unidad se analizó la programación modular, desde los conceptos básico
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/e0f7db1330cb65fe45c61097cf65fa0124b52a25/img/Captura%20de%20pantalla%202026-07-18%20111803.png" width="75%">
           </p>
 
+<a id="funciones-con-envio-de-parametros"></a>
+
  [REGRESAR](UNIDAD3.md)
  
    * ### Funciones con envio de parámetros 
      * **Por valor**: Cuando llamas a una función y pasas un parámetro por valor, la función recibe una copia de x.
-        * **¿Qué hace la función?**: Trabaja con la copia. Si la función modifica ese número, la copia cambia, pero tu x original de el main sigue valiendo lo mismo.
-        * **¿Cuando se usa?**: Cuando solo quieres usar el dato para calcular algo pero no quieres arriesgarte a dañar el dato original.
-        * **Ejemplo**: Calcular cuánto sería el saldo después de aplicar un interés del 5%, pero no quieres cambiar el saldo real todavía.
+       * **¿Qué hace la función?**: Trabaja con la copia. Si la función modifica ese número, la copia cambia, pero tu x original de el main sigue valiendo lo mismo.
+       * **¿Cuando se usa?**: Cuando solo quieres usar el dato para calcular algo pero no quieres arriesgarte a dañar el dato original.
+       * **Ejemplo**: Calcular cuánto sería el saldo después de aplicar un interés del 5%, pero no quieres cambiar el saldo real todavía.
        
          <p align="center"> 
-          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/d0516a94e67d663ee68b96d0953fe259221502e9/img/Captura%20de%20pantalla%202026-07-18%20115247.png" width="80%">
-          </p>
-          
+         <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/d0516a94e67d663ee68b96d0953fe259221502e9/img/Captura%20de%20pantalla%202026-07-18%20115247.png" width="80%">
+         </p>
+         
      * **Por referencia**: Cuando se trabaja por referencia, no le damos una copia a la función; le damos la dirección de memoria donde esta la variable x.
-        * **¿Qué hace la función?**: Como tiene la dirección, va directo a donde está el original y cambia el valor allí mismo.
-        * **Ejemplo**: El usuario hace un retiro de dinero. Necesitamos que, al terminar se muestre cuanto le queda.
+       * **¿Qué hace la función?**: Como tiene la dirección, va directo a donde está el original y cambia el valor allí mismo.
+       * **Ejemplo**: El usuario hace un retiro de dinero. Necesitamos que, al terminar se muestre cuanto le queda.
    
         <p align="center"> 
          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/147abb7ed33b50c57d5baa2edf2f5df7f90fa140/img/Captura%20de%20pantalla%202026-07-18%20120349.png" width="80%">
-          </p>
+         </p>
 
- [REGRESAR](UNIDAD3.md)
+[REGRESAR](UNIDAD3.md)
+
+<a id="arreglos"></a>
 
  ### 📊 Arreglos
-
- <a id="arreglos"></a>
 
 <p align="justify">
 • <b>¿Qué es un Arreglo?</b>: Un arreglo (o array) es una estructura de datos que permite almacenar una colección de elementos del mismo tipo bajo un mismo nombre.
@@ -113,7 +113,7 @@ Ejemplo: Desarrolle un programa en lenguaje C que inicialice un arreglo unidimen
  <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/27f6d2e97345e46a8d6120294947b931ece22d9e/img/Captura%20de%20pantalla%202026-07-18%20124548.png" width="80%">
     </p>
-  <p align="center">
+ <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/71a6992052719cd0b66108c8dde2a1c40edc5faf/img/Captura%20de%20pantalla%202026-07-18%20124557.png" width="80%">
     </p>
 
@@ -124,7 +124,7 @@ Ejemplo: Desarrolle un programa en lenguaje C que utilice una matriz de tipo flo
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/98be8bf1da5ced7ac22fd331bd1166c6b74e4d2d/img/Captura%20de%20pantalla%202026-07-18%20130628.png" width="80%">
     </p>
   
-  <p align="center">
+ <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5b1d6ca9027fae435d6bb976b7cbe80d88a5f816/img/Captura%20de%20pantalla%202026-07-18%20130657.png" width="80%">
     </p>
 *   <b>Tridimensional:</b> Son arreglos de tres dimensiones, útiles para representar estructuras más complejas, y se declaran como `int cubo[profundidad][fila][columna]`.
@@ -135,4 +135,4 @@ Ejemplo: Desarrolla un programa en C que gestione las ventas de una empresa con 
     </p>
       <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/847ea4db308eb546519678cdd334dd62ba2ff890/img/Captura%20de%20pantalla%202026-07-18%20131741.png" width="80%">
-    </p> 
+    </p>
