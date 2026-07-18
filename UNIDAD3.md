@@ -1,4 +1,3 @@
-
 [REGRESAR](index.md)
 
 <a id="indice"></a>
@@ -7,7 +6,10 @@
 
 # UNIDAD 3
 
+</div>
+
 ## 📌 ÍNDICE
+
 * [1. Programación Modular](UNIDAD33.md#programacion-modular)
     * [Conceptos básicos](UNIDAD33.md#conceptos-basicos-modular)
     * [Funciones y procedimientos](UNIDAD33.md#uso-modulos-funciones)
