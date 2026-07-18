@@ -127,8 +127,8 @@ Ejemplo: Desarrolle un programa en lenguaje C que utilice una matriz de tipo flo
 
 Ejemplo: Desarrolla un programa en C que gestione las ventas de una empresa con 2 sucursales, donde cada una tiene 3 vendedores que trabajan 4 días a la semana. Utiliza un arreglo tridimensional float ventas[2][3][4] para almacenar y mostrar los datos.
     <p align="center">
-    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png" width="55%">
+    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/30f9b859ac3b8216327a0febf87f3fd5c3f2abe9/img/Captura%20de%20pantalla%202026-07-18%20131718.png" width="80%">
     </p>
       <p align="center">
-    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png" width="55%">
+    <img src="" width="80%">
     </p> 
