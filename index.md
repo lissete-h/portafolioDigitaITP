@@ -39,9 +39,11 @@ Se utilizo la Inteligencia Artificial (Gemini) para estructurar de manera correc
 | **[5]** | ID Tech, "What is block-based coding?," *ID Tech Blog*. [En línea]. Disponible: https://www.idtech.com/blog/what-is-block-based-coding |
 | **[6]** | Educa JCyL, "Programación por bloques y pensamiento computacional," *Portal de Educación de la Junta de Castilla y León*. [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html |
 | **[7]** | Millennials Consulting, "Programación en C: Todo lo que necesitas saber," *Millennials Consulting Blog*. |
-| **[8]** | “Estructuras condicionales: ¿Qué son y para qué sirven?” Onmex (accessed May 23, 2026. Disponible en: https://onmex.mx/tecnologia-y-desarrollo/estructuras-condicionales-que-son-y-para-que-sirven/ |
+| **[8]** | “Estructuras condicionales: ¿Qué son y para qué sirven?” Onmex (accessed May 23, 2026. Disponible en: https://onmex.mx/tecnologia-y-desarrollo/estructuras-condicionales-que-son-y-para-que-servir/ |
 | **[9]** | “Estructura Condicional.” Scribd (accessed May 23, 2026). Disponible en: https://es.scribd.com/document/890989353/Estructura-Condicional |
 | **[10]** | A. A. Bhuiyan and M. Amiruzzaman, Programming with Java, 2nd ed. The Pennsylvania Alliance for Design of Open Textbooks (PA-ADOPT), 2025. Disponible en: https://open.umn.edu/opentextbooks/textbooks/programming-with-java |
 | **[11]** | IBM, "Repetitive loops (Instructions)," IBM Documentation, 2024. Disponible en: https://www.ibm.com/docs/es/cics-ts/6.x?topic=instructions-repetitive-loops |
+| **[12]** | MSMK University, "Array en programación: concepto, tipos y ejemplos," MSMK, [En línea]. Disponible: https://msmk.university/array-en-programacion-concepto-tipos-y-ejemplos/.|
+| **[13]** | L. Llamas, "Programación: ¿Qué es una función?," Luis Llamas, [En línea]. Disponible: https://www.luisllamas.es/programacion-que-es-una-funcion/. |
 
 </div>
