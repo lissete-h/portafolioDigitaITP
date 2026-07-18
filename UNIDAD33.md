@@ -12,13 +12,13 @@
 En esta unidad se analizó la programación modular, desde los conceptos básicos hasta el uso de módulos y funciones en la resolución de problemas. Asimismo, se abordaron las estructuras de datos estáticas básicas, abarcando desde los arreglos hasta las cadenas.
 </p>
 
-<a id="condicionales"></a>
+<a id="programacion-modular"></a>
 
 [REGRESAR](UNIDAD3.md)
  
 ### *⚡ 1. Programación Modular*
 
-<a id="tipos-condicionales"></a>
+<a id="conceptos-basicos-modular"></a>
 
 ### Conceptos básicos de programación modular
 
@@ -42,6 +42,8 @@ En esta unidad se analizó la programación modular, desde los conceptos básico
 <br>
 
 [REGRESAR](UNIDAD3.md)
+
+<a id="uso-modulos-funciones"></a>
 
 <p align="justify">
 • <b>¿Qué es una función?</b>: Una función es un bloque de código con nombre que encapsula una tarea específica, que contiene lo siguiente:
@@ -92,6 +94,8 @@ En esta unidad se analizó la programación modular, desde los conceptos básico
  [REGRESAR](UNIDAD3.md)
 
  ### 📊 Arreglos
+
+ <a id="arreglos"></a>
 
 <p align="justify">
 • <b>¿Qué es un Arreglo?</b>: Un arreglo (o array) es una estructura de datos que permite almacenar una colección de elementos del mismo tipo bajo un mismo nombre.
