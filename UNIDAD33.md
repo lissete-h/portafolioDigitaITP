@@ -75,15 +75,15 @@ En esta unidad se analizó la programación modular, desde los conceptos básico
      * **Por valor**: Cuando llamas a una función y pasas un parámetro por valor, la función recibe una copia de x.
         * **¿Qué hace la función?**: Trabaja con la copia. Si la función modifica ese número, la copia cambia, pero tu x original de el main sigue valiendo lo mismo.
         * **¿Cuando se usa?**: Cuando solo quieres usar el dato para calcular algo pero no quieres arriesgarte a dañar el dato original.
-        * **Ejemplo**:
+        * **Ejemplo**: Calcular cuánto sería el saldo después de aplicar un interés del 5%, pero no quieres cambiar el saldo real todavía.
        
          <p align="center"> 
-          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/02a6cb5ea45bbbe362b0ee910067938802d4b41b/img/Captura%20de%20pantalla%202026-06-08%20090837.png" width="55%">
+          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/d0516a94e67d663ee68b96d0953fe259221502e9/img/Captura%20de%20pantalla%202026-07-18%20115247.png" width="75%">
           </p>
           
      * **Por referencia**: Cuando se trabaja por referencia, no le damos una copia a la función; le damos la dirección de memoria donde esta la variable x.
         * **¿Qué hace la función?**: Como tiene la dirección, va directo a donde está el original y cambia el valor allí mismo.
-        * **Ejemplo**:
+        * **Ejemplo**: El usuario hace un retiro de dinero. Necesitamos que, al terminar la función, el valor de miDinero en el main sea realmente menor.
    
         <p align="center"> 
          <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/dc77af98f9a857e46272af1b23b7d4aadd7912c3/img/Captura%20de%20pantalla%202026-06-08%20091732.png" width="55%">
