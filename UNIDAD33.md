@@ -1,27 +1,71 @@
- [REGRESAR](UNIDAD3.md)
+[REGRESAR](UNIDAD3.md)
  
- <a id="unidad2-inicio"></a>
-## UNIDAD 2: *✍🏻Estructuras Condicionales y Repetitivas✍🏻*
-En esta unidad se analizo el control de Algotitmos mediante la toma de decisiones y asimismo se estudio los bucles repetitivos para crear códigos más eficientes. 
+<a id="unidad3-inicio"></a>
+
+<div align="center">
+
+## UNIDAD 3: *✍🏻 Programación Modular y Estructuras de Datos Estáticas ✍🏻*
+
+</div>
+
+<p align="justify">
+En esta unidad se analizó la programación modular, desde los conceptos básicos hasta el uso de módulos y funciones en la resolución de problemas. Asimismo, se abordaron las estructuras de datos estáticas básicas, abarcando desde los arreglos hasta las cadenas.
+</p>
 
 <a id="condicionales"></a>
 
- [REGRESAR](UNIDAD3.md)
+[REGRESAR](UNIDAD3.md)
  
-### *⚡ 1.Esctructuras Condicionales*
+### *⚡ 1. Programación Modular*
 
 <a id="tipos-condicionales"></a>
-   * ###  Tipos de Condicionales
-     * **Condicional Simple**: Es aquel que evalua una condición, dependiendo si el resultado es verdadero (T) o si es falso (F), simplemente ignorando el bloque y continuando con el flujo del programa.
-     * **Condicional Doble**: Es aquel que permite elegir entre dos caminos o alternativas posibles. Si la condición es verdadera, ejecuta un bloque de código; si es falsa, ejecuta un bloque de código diferente.
-     * **Condicional Múltiple**: Es aquel que permite evaluar una variable y elegir entre múltiples rutas posibles según el valor que esta contenga, este condicional es util cuando hay muchas opciones.
-     * **Condicionales Anidados**: Un condicional Anidado es aquel que ocurre cuando dentro del bloque de código de un condicional se coloca otra estructura condicional completa. Permitiendo evaluar condiciones dependientes unas de otras.
 
-<a id="diagrama-condicionales"></a>
+### Conceptos básicos de programación modular
+
+<p align="justify">
+• <b>¿Qué es la Programación Modular?</b>: Es un paradigma de diseño de software que consiste en dividir un problema complejo en subproblemas más pequeños y manejables, llamados módulos. Cada módulo debe estar diseñado para realizar una tarea específica, de modo que el sistema completo sea la suma de estas piezas trabajando en armonía.
+</p>
+
+<p align="justify">
+• <b>Pilares Fundamentales</b>: Para que una estructura sea realmente modular, debemos buscar dos propiedades técnicas clave:
+</p>
+
+<div align="center">
+
+| Propiedad | Descripción |
+| :--- | :--- |
+| **Alta Cohesión** | Un módulo debe tener una única responsabilidad bien definida (principio de responsabilidad única). Si un módulo intenta hacer demasiadas cosas distintas, es momento de dividirlo. |
+| **Bajo Acoplamiento** | Los módulos deben ser lo más independientes posible. Un cambio en la lógica interna de un módulo no debería romper el funcionamiento de los otros. La comunicación debe ser mínima y definida mediante interfaces. |
+
+</div>
+
+<br>
+
+[REGRESAR](UNIDAD3.md)
+
+<p align="justify">
+• <b>¿Qué es una función?</b>: Una función es un bloque de código con nombre que encapsula una tarea específica, que contiene lo siguiente:
+</p>
+
+<div align="center">
+
+| Componente | Descripción |
+| :--- | :--- |
+| **Entrada (Parámetros)** | Se le entrega la información necesaria para trabajar. |
+| **Procesamiento** | La función ejecuta una lógica interna (cálculos, transformaciones, validaciones). |
+| **Salida (Retorno)** | Devuelve un resultado al lugar donde fue llamada. |
+
+</div>
+
+<p align="justify">
+• <b>¿Diferencia entre "Procedimiento y Función"?</b>: 
+</p>
+• Función: Es un bloque que devuelve un valor (ej. una función que calcula un promedio y entrega el número resultante).
+• Procedimiento (o subrutina): Es un bloque que realiza una acción pero no devuelve un valor directamente (ej. una función que simplemente imprime un reporte en pantalla o limpia la consola). En C, estos se definen como void.  
 
  [REGRESAR](UNIDAD3.md)
-
-   * ### Estructuras Condicionales en Diagrama de Flujo
+ 
+   * ### Pase de parámetro pr valor 
      * **Condicional Simple**
          <p align="center"> 
           <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/02a6cb5ea45bbbe362b0ee910067938802d4b41b/img/Captura%20de%20pantalla%202026-06-08%20090837.png" width="55%">
