@@ -9,15 +9,15 @@
 </p>
 
 ---
-  <div align="center">
-  
+<div align="center">
+
 # 📂 **NAVEGACIÓN ACADÉMICA** 📂
 
-| Componente de Estudio | 💡 Unidad 1: Fundamentos de Algorítmica | 🖊️ Unidad 2: Estructuras de Control |
-| :--- | :---: | :---: |
-| ✨ **Temas Trabajados** | [Ver Contenidos](UNIDAD1.md) | [Ver Contenidos](UNIDAD2.md) |
-| 🤔 **Dificultades Presentadas** | [Ver Desafíos](dificultades.md#dificultades-u1) | [Ver Desafíos](dificultades.md#dificultades-u2) |
-| 📝 **Reflexiones Críticas** | [Ver Análisis](reflexion.md#reflexion-u1) | [Ver Análisis](reflexion.md#reflexion-u2) |
+| Componente de Estudio | 💡 Unidad 1: Fundamentos de Algorítmica | 🖊️ Unidad 2: Estructuras de Control | 🚀 Unidad 3: Programación Modular y Estructuras de Datos Estáticas |
+| :--- | :---: | :---: | :---: |
+| ✨ **Temas Trabajados** | [Ver Contenidos](UNIDAD1.md) | [Ver Contenidos](UNIDAD2.md) | [Ver Contenidos](UNIDAD3.md) |
+| 🤔 **Dificultades Presentadas** | [Ver Desafíos](dificultades.md#dificultades-u1) | [Ver Desafíos](dificultades.md#dificultades-u2) | [Ver Desafíos](dificultades.md#dificultades-u3) |
+| 📝 **Reflexiones Críticas** | [Ver Análisis](reflexion.md#reflexion-u1) | [Ver Análisis](reflexion.md#reflexion-u2) | [Ver Análisis](reflexion.md#reflexion-u3) |
 
 </div>
 ---
