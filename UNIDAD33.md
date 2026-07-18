@@ -119,8 +119,16 @@ Ejemplo: Desarrolle un programa en lenguaje C que utilice una matriz de tipo flo
     <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/98be8bf1da5ced7ac22fd331bd1166c6b74e4d2d/img/Captura%20de%20pantalla%202026-07-18%20130628.png" width="80%">
     </p>
-
+  
+  <p align="center">
+    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/5b1d6ca9027fae435d6bb976b7cbe80d88a5f816/img/Captura%20de%20pantalla%202026-07-18%20130657.png" width="80%">
+    </p>
 *   <b>Tridimensional:</b> Son arreglos de tres dimensiones, útiles para representar estructuras más complejas, y se declaran como `int cubo[profundidad][fila][columna]`.
+
+Ejemplo: Desarrolla un programa en C que gestione las ventas de una empresa con 2 sucursales, donde cada una tiene 3 vendedores que trabajan 4 días a la semana. Utiliza un arreglo tridimensional float ventas[2][3][4] para almacenar y mostrar los datos.
     <p align="center">
     <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png" width="55%">
     </p>
+      <p align="center">
+    <img src="https://github.com/lissete-h/portafolioDigitaITP/blob/0d39a11c7115d9b938b8055cfdc4f03be1adfac1/img/Captura%20de%20pantalla%202026-06-08%200908370.png" width="55%">
+    </p> 
